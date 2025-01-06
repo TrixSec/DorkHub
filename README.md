@@ -1,5 +1,5 @@
 **Author**: Trix Cyrus  
-**Repo Copyright**: © 2024 Trixsec Org (Not Dorks Copyright)
+**Repo Copyright**: © 2025 Trixsec Org (Not Dorks Copyright)
 **Maintained**: Yes
 
 
