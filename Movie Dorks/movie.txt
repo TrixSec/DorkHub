@@ -1,0 +1,5 @@
+intitle:index.of? mkv 
+intitle:index.of? mkv Movie name
+inurl:mp4+movie name
+inurl:mkv+moviename
+moviename -inurl:(htm|html|php|pls|txt) intitle:index.of “last modified” (mp4|wma|aac|avi)

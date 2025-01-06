@@ -1,0 +1,233 @@
+Basic Shodan Filters
+city:
+Find devices in a particular city.
+city:"Bangalore"
+
+country:
+Find devices in a particular country.
+country:"IN"
+
+geo:
+Find devices by giving geographical coordinates.
+geo:"56.913055,118.250862"
+
+hostname:
+Find devices matching the hostname.
+server: "gws" hostname:"google"
+
+net:
+Find devices based on an IP address or /x CIDR.
+net:210.214.0.0/16
+
+os:
+Find devices based on operating system.
+os:"windows 7"
+
+port:
+Find devices based on open ports.
+proftpd port:21
+
+before/after:
+Find devices before or after between a given time.
+apache after:22/02/2009 before:14/3/2010
+
+Citrix:
+Find Citrix Gateway.
+title:"citrix gateway"
+
+Wifi Passwords:
+Helps to find the cleartext wifi passwords in Shodan.
+html:"def_wirelesspassword"
+
+Surveillance Cams:
+With username:admin and password: :P
+NETSurveillance uc-httpd
+
+Fuel Pumps connected to internet:
+No auth required to access CLI terminal.
+"privileged command" GET
+
+Windows RDP Password:
+But may contain secondary windows auth
+"\x03\x00\x00\x0b\x06\xd0\x00\x00\x124\x00"
+
+Mongo DB servers:
+It may give info about mongo db servers and dashboard
+"MongoDB Server Information" port:27017 -authentication
+
+FTP servers allowing anonymous access:
+Complete Anon access
+"220" "230 Login successful." port:21
+
+Jenkins:
+Jenkins Unrestricted Dashboard
+x-jenkins 200
+
+Hacked routers:
+Routers which got compromised
+hacked-router-help-sos
+
+Open ATM:
+May allow for ATM Access availability
+NCR Port:"161"
+
+Telnet Access:
+NO password required for telnet access.
+port:23 console gateway
+
+Misconfigured Wordpress Sites:
+The wp-config.php if accessed can give out the database credentials.
+http.html:"* The wp-config.php creation script uses this file"
+
+Hiring:
+Find sites hiring.
+"X-Recruiting:"
+
+Android Root Bridge:
+Find android root bridges with port 5555.
+"Android Debug Bridge" "Device" port:5555
+
+Etherium Miners:
+Shows the miners running ETH.
+"ETH - Total speed"
+
+Tesla Powerpack charging Status:
+Helps to find the charging status of tesla powerpack.
+http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2
+
+Hostname
+hostname:example.com
+hostname:subdomain.example.com
+hostname:example.com -hostname:subdomain.example.com
+hostname:example.com,example.org
+
+Organization
+org:microsoft
+org:"United States Department"
+
+SSL/TLS Certificates
+Self signed certificates
+ssl.cert.issuer.cn:example.com ssl.cert.subject.cn:example.com
+
+Expired certificates
+ssl.cert.expired:true
+
+ssl.cert.subject.cn:example.com
+
+Autonomous System Number (ASN)
+asn:ASxxxx
+
+Network
+net:x.x.x.x/x
+
+Device Type
+device:firewall
+device:router
+device:wap
+device:webcam
+device:media
+device:"broadband router"
+device:pbx
+device:printer
+device:switch
+device:storage
+device:specialized
+device:phone
+device:"voip phone"
+device:"voip adaptor"
+device:"load balancer"
+device:"print server"
+device:terminal
+device:remote
+device:telecom
+device:power
+device:proxy
+device:pda
+device:bridge
+
+Operating System
+os:"windows xp"
+os:"windows 7"
+os:"windows vista"
+os:"windows 8"
+
+os:"windows 2000"
+os:"windows server 2003"
+os:"windows server 2008"
+os:"windows server 2012"
+os:"windows server 2016"
+os:"windows server 2019"
+
+os:"linux 2.4"
+os:"linux 2.6"
+os:"linux 3.x"
+
+Product
+product:apache
+product:microsoft
+product:"microsoft iis"
+product:nginx
+product:android
+product:chromecast
+
+Customer Premises Equipment (CPE)
+cpe:apple
+cpe:microsoft
+cpe:oracle
+cpe:nginx
+cpe:cisco
+
+Server
+server: nginx
+server: apache
+server: microsoft
+server: cisco-ios
+server: ubuntu
+server: android
+
+Ports
+port:21
+port:22
+port:23
+port:25
+port:53
+port:3389
+
+Version
+
+HTTP
+
+Link
+link:vpn
+
+SSL/TLS Version
+ssl.version:sslv3
+ssl.version:tlsv1
+ssl.version:tlsv1.1
+ssl.version:tlsv1.2
+ssl.version:tlsv1.3
+
+Location
+country:us
+country:ru country:de city:chicago
+
+title:camera – general search for anything matching the “camera” keyword.
+webcam has_screenshot:true – a general search for any IoT device identified as a webcam that has screenshots available.
+has_screenshot:true IP Webcam – another version of the above search, see how the results might differ?
+server: webcampxp – webcamXP is one of the most popular and commonly encountered network camera software for Windows OS. 
+server: “webcam 7” – webcam 7 cameras; not as popular as the above type, but still they are still popular and encountered out there.
+title:”blue iris remote view” – webcams identified as belonging to the Blue Iris webcam remote management and monitoring service.
+title:”ui3 -“ – UI3 is a  HTML5 web interface for Blue Iris mentioned above.
+title:”Network Camera VB-M600″ – Canon manufactured megapixel security cameras.
+product:”Yawcam webcam viewer httpd” – Yawcam stands for Yet Another WebCAM, free live streaming and webcam software.
+title:”IPCam Client” – IPCam Client webcam devices.
+server: GeoHttpServer – GeoVision (GeoHttpServer) Webcams, older webcam software with some had well documented vulnerabilities.
+server: VVTK-HTTP-Server – Vivotek IP cameras.
+title:”Avigilon” – access to the Avigilion brand camera and monitoring devices.
+ACTi – various IP camera and video management system products.
+WWW-Authenticate: “Merit LILIN Ent. Co., Ltd.” – a UK-based house automation / IP camera provider.
+title:”+tm01+” – unsecured Linksys webcams, a lot of them with screenshots.
+server: “i-Catcher Console” – another example of an IP-based CCTV system.
+Netwave IP Camera Content-Length: 2574 – access to the Netwave make IP cameras.
+200 ok dvr port:”81″ – DVR CCTV cameras accessible via http.
+WVC80N – Linksys WVC80N cameras.

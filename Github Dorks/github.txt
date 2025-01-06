@@ -1,0 +1,29 @@
+Certificates
+Search : Description
+
+"-----BEGIN RSA PRIVATE KEY-----" :	RSA Private Key
+"-----BEGIN PRIVATE KEY-----" :	Unencrypted PKCS#8 and base64 encoded Private Key
+"-----BEGIN ENCRYPTED PRIVATE KEY-----" :	PEM file Private Key
+"-----BEGIN CERTIFICATE-----" : extension:pem	PEM encoded SSL certificate
+
+-----------------
+
+Source Code Leak/Reverse Engineering
+Search : Description
+
+"package com.whatsapp" extension:java	: Look for code leak or reverse engineer of an Android Application.
+
+------------------
+
+Passwords and connections config setting leak
+Search : Description
+
+app.config['SQLALCHEMY_DATABASE_URI'] :	SQLAlchmy Database connection configuration leak
+
+-------------------
+
+2FA Recovery Codes
+Search ; Description
+
+filename:mega-recoverykey.txt	: Mega.nz 2FA Recovery Code
+filename:github-recovery-codes.txt	: Github 2FA Recovery Code

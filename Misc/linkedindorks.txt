@@ -1,0 +1,12 @@
+site:ua.linkedin.com/in "gmail.com" DevOps -recruiter
+site:ua.linkedin.com/in devops "cybersecurity"
+site:ua.linkedin.com/pub -pub.dir DevOps -recruiter
+site:ua.linkedin.com/in DevOps (Anna OR Olga OR Tatiana OR Svetlana OR Anastasia) -recruiter
+site:ua.linkedin.com/in Kubernetes Zabbix -recruiter -london
+site:linkedin.com “Front end developers group” (.Net |dot Net) Greater Boston Area) -dir -job -jobs -sample -samples -template -resume service -resume writers -resume writing
+site:linkedin.com inurl:(in | pub) “logo Boolean strings” -inurl:dir
+site:linkedin.com “front end developers logo” (C# |.Net) “location * Greater Boston Area”
+site:linkedin.com “people you know” “logo * Ernst & Young Employees and Alumni” java
+site:linkedin.com/in OR site:linkedin.com/pub "Jane" AND intitle:"Microsoft" AND (intext:"Language*" AND "Mandarin")
+site:linkedin.com/in OR site:linkedin.com/pub intitle:"Vice President" AND intitle:"Microsoft" AND ("Education" AND "UNSW")
+site:linkedin.com/in OR site:linkedin.com/pub intext:"@microsoft.com"

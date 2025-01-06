@@ -1,0 +1,289 @@
+Industrial Control System Protocols 🔎 →
+services.service_name: {BACNET, CODESYS, EIP, FINS, FOX, IEC60870_5_104, S7, MODBUS}
+
+Prismview (Samsung Electronic Billboards) 🔎 →
+services.tls.certificates.leaf_data.subject.common_name: "Prismview" or services.http.response.headers.server: "Prismview Player"
+   
+Gas Station Pump Controllers (ATGs) 🔎 →
+(same_service(port: 10001 and banner: "IN-TANK INVENTORY") or services.service_name: ATG) and services.truncated: false
+Pro-Tip: Add services.truncated: false to your query to exclude honeypots (Hosts with 100+ services).
+
+   
+Electric Vehicle Chargers 🔎 →
+same_service(http.response.headers.server: "gSOAP/2.8" and http.response.headers.content_length: 583)
+
+Carel PlantVisor 🔎 →
+services.http.response.html_title: "CAREL Pl@ntVisor"
+  
+C4 Max Vehicle GPS 🔎 →
+services.banner: "[1m[35mWelcome on console"
+  
+GaugeTech Electricity Meters 🔎 →
+services.http.response.headers.server: "EIG Embedded Web Server"
+   
+XZERES Wind Turbines 🔎 →
+services.http.response.html_title: "XZERES Wind"
+Note: This query works best with virtual hosts included.
+
+   
+Nordex Wind Turbine Farms 🔎 →
+services.http.response.html_title: "Nordex Control" or services.tls.certificates.leaf_data.issuer.domain_component: "NORDEX-AG"
+  
+Saferoads VMS Signs 🔎 →
+services.software: (vendor: "Saferoads" and product: "VMS")
+  
+Internet of Things Devices
+Roombas 🔎 →
+services.tls.certificates.leaf_data.issuer.common_name: "Roomba CA"
+Mein Automowers 🔎 →
+services.http.response.headers.Www_Authenticate: `Basic realm= "Mein Automower (Robonect Hx+)"`
+WinAQMS Environmental Monitor 🔎 →
+services.banner: "WinAQMS Data Server" and services.truncated: false
+Emerson Site Supervisor 🔎 →
+services.http.response.html_title: "Emerson Site Supervisor"
+   
+  
+Brightsign Digital Sign 🔎 →
+services.http.response.html_title: "'BrightSign&reg;"
+Elnet Power Meters 🔎 →
+same_service(services.http.response.headers.Server="CAL1.0" and services.http.response.status_code: 200)
+   
+  
+Nethix Wireless Controller 🔎 →
+services.http.response.headers.set_cookie: "NethixSession"
+  
+Compromised Mikrotik Router 🔎 →
+services.service_name: MIKROTIK_BW and services.pptp.hostname: "HACKED"
+  
+Security Applications
+Cobalt Strike Servers 🔎 →
+services.certificate: {
+    "64257fc0fac31c01a5ccd816c73ea86e639260da1604d04db869bb603c2886e6",
+    "87f2085c32b6a2cc709b365f55873e207a9caa10bffecf2fd16d3cf9d94d390c"
+}
+or services.tls.certificates.leaf_data.issuer.common_name: "Major Cobalt Strike"
+or services.tls.certificates.leaf_data.subject.common_name: "Major Cobalt Strike"
+Metasploit Servers 🔎 →
+services.http.response.html_title: "Metasploit" and (
+    services.tls.certificates.leaf_data.subject.organization: "Rapid7"
+    or services.tls.certificates.leaf_data.subject.common_name: "MetasploitSelfSignedCA"
+)
+or services.jarm.fingerprint: {
+    "07d14d16d21d21d00042d43d000000aa99ce74e2c6d013c745aa52b5cc042d",
+    "07d14d16d21d21d07c42d43d000000f50d155305214cf247147c43c0f1a823"
+}
+Nessus Scanner Servers 🔎 →
+services.http.response.headers.server: "NessusWWW"
+or services.tls.certificates.leaf_data.subject.organizational_unit: "Nessus Server"
+NTOP Network Analyzers 🔎 →
+services.http.response.html_title: "Welcome to ntopng"
+or same_service(
+    services.http.response.html_title: "Global Traffic Statistics"
+    and services.http.response.headers.server: "ntop/*"
+)
+Merlin C2 🔎 →
+services.jarm.fingerprint: "29d21b20d29d29d21c41d21b21b41d494e0df9532e75299f15ba73156cee38"
+  
+Mythic C2 🔎 →
+same_service(port: 7443 and tls.certificates.leaf_data.subject.organization: "Mythic")
+Note: When using the same_service operator, the initial services. prefix is optional.
+
+  
+Deimos C2 🔎 →
+services.jarm.fingerprint: "00000000000000000041d00000041d9535d5979f591ae8e547c5e5743e5b64"
+  
+Covenant C2 🔎 →
+same_service(
+    http.response.body: {"Blazor", "covenant.css"}
+    and tls.certificates.leaf_data.issuer.common_name: "Covenant"
+)
+  
+PoshC2 🔎 →
+same_service(
+    services.tls.certificates.leaf_data.subject.common_name="P18055077" and
+    services.tls.certificates.leaf_data.subject.province="Minnesota" and
+    services.tls.certificates.leaf_data.subject.locality="Minnetonka" and
+    services.tls.certificates.leaf_data.subject.organization="Pajfds" and
+    services.tls.certificates.leaf_data.subject.organizational_unit="Jethpro"
+)
+  
+Sliver C2 🔎 →
+same_service(
+    services.tls.certificates.leaf_data.pubkey_bit_size: 2048 and
+    services.tls.certificates.leaf_data.subject.organization: /(ACME|Partners|Tech|Cloud|Synergy|Test|Debug)? ?(co|llc|inc|corp|ltd)?/ and
+    services.jarm.fingerprint: 3fd21b20d00000021c43d21b21b43d41226dd5dfc615dd4a96265559485910 and
+    services.tls.certificates.leaf_data.subject.country: US and
+    services.tls.certificates.leaf_data.subject.postal_code: /<1001-9999>/
+)
+Note: This search uses regex and requires a paid account.
+
+Pro-Tip: Try removing JARM to find even more Sliver instances.
+
+  
+EvilGinx2 🔎 →
+services.jarm.fingerprint: "20d14d20d21d20d20c20d14d20d20daddf8a68a1444c74b6dbe09910a511e6"
+  
+Brute Ratel C4 🔎 →
+services.http.response.body_hash="sha1:1a279f5df4103743b823ec2a6a08436fdf63fe30"
+  
+Empire C2 🔎 →
+same_service(
+    services.http.response.body_hash: {"sha1:bc517bf173440dad15b99a051389fadc366d5df2", "sha1:dcb32e6256459d3660fdc90e4c79e95a921841cc"}
+    and services.http.response.headers.expires: 0
+    and services.http.response.headers.cache_control: "*"
+)
+  
+Raccoon Stealer V2 (RecordBreaker C2) 🔎 →
+services.banner_hashes: "sha256:7987d0c39c4839572ab88c6d82da01395f74e0c31f12d94c58d0e1bed0b0c75c"
+  
+NimPlant C2 🔎 →
+services.http.response.headers.Server: "NimPlant C2 Server" or services.http.response.body_hashes: "sha256:636d68bd1bc19d763de95d0a6406f4f77953f9973389857353ac445e2b6fff87"
+  
+RedGuard 🔎 →
+services.tls.certificates.leaf_data.subject_dn: "C=CN, L=HangZhou, O=Alibaba (China) Technology Co.\\, Ltd., CN=\*.aliyun.com"
+  
+AsyncRAT 🔎 →
+services.tls.certificates.leaf_data.subject.common_name: "AsyncRAT Server"
+  
+BitRAT 🔎 →
+services.tls.certificates.leaf_data.subject.common_name: "BitRAT"
+  
+OrcusRAT 🔎 →
+services.tls.certificates.leaf_data.subject.common_name: {"Orcus Server", "OrcusServerCertificate"}
+  
+QuasarRAT 🔎 →
+services.tls.certificates.leaf_data.subject.common_name: {"Anony96", "Quasar Server CA"}
+  
+NanoCore 🔎 →
+services.tls.certificates.leaf_data.subject.common_name: "unk"
+  
+DcRat 🔎 →
+services.tls.certificates.leaf_data.subject.common_name: "DcRat Server"
+  
+Deimos C2 🔎 →
+same_service((services.http.response.html_title="Deimos C2" or services.tls.certificates.leaf_data.subject.organization="Acme Co") and services.port: 8443)
+  
+Posh C2 🔎 →
+services.tls.certificates.leaf_data.subject_dn: "C=US, ST=Minnesota, L=Minnetonka, O=Pajfds, OU=Jethpro, CN=P18055077"
+  
+IcedID Banking Trojan 🔎 →
+services.tls.certificates.leaf_data.subject_dn: "CN=localhost, C=AU, ST=Some-State, O=Internet Widgits Pty Ltd"
+  
+Gozi Malware 🔎 →
+services.tls.certificates.leaf_data.issuer_dn: "C=XX, ST=1, L=1, O=1, OU=1, CN=\*"
+  
+Pupy RAT C2 🔎 →
+same_service(services.http.response.headers.Etag="\"aa3939fc357723135870d5036b12a67097b03309\"" and services.http.response.headers.Server="nginx/1.13.8") or same_service(services.tls.certificates.leaf_data.issuer.organization:/[a-zA-Z]{10}/ and  services.tls.certificates.leaf_data.subject.organization:/[a-zA-Z]{10}/ and services.tls.certificates.leaf_data.subject.organizational_unit="CONTROL")
+Note: This search uses regex and requires a paid account.
+
+  
+Responder Server 🔎 →
+services.banner="HTTP/1.1 401 Unauthorized\r\nServer: Microsoft-IIS/7.5\r\nDate:  <REDACTED>\r\nContent-Type: text/html\r\nWWW-Authenticate: NTLM\r\nContent-Length: 0\r\n"
+  
+Titan Stealer C2 🔎 →
+services.http.response.body: "Titan Stealer"
+  
+Open Directory Listing Host with Suspicious File Names in their Contents 🔎 →
+same_service(
+    (services.http.response.html_title:"Index of /" or services.http.response.html_title:"Directory Listing for /")
+    and services.http.response.body: /.*?(cve|metasploit|cobaltstrike|sliver|covenant|brc4|brute-ratel|commander-runme|bruteratel|ps2exe|(badger|shellcode|sc|beacon|artifact|payload|teamviewer|anydesk|mimikatz|cs|rclone)\.(exe|ps1|vbs|bin|nupkg)).*/
+)
+Note: This search uses regex and requires a paid account.
+
+Splunk 🔎 →
+services.software.product: "Splunk"
+  
+Databases
+Exposed CouchDB Servers 🔎 →
+services.http.response.body: '"couchdb": "Welcome"'
+  
+Dashboards
+cAdvisor Dashboards 🔎 →
+same_service(services.http.response.html_title=`cAdvisor - /` and services.http.response.status_code=200 and services.http.request.uri="*/containers/")
+  
+HashiCorp Consul Dashboards 🔎 →
+same_service(services.http.response.html_title=`Consul by HashiCorp` and services.http.request.uri: "*/ui/")
+  
+Netdata Dashboards 🔎 →
+same_service(services.http.response.headers.Server="Netdata Embedded HTTP*" and services.http.response.html_title="netdata dashboard")
+  
+Rancher Dashboards 🔎 →
+same_service(services.http.response.headers.unknown.name: "X-Rancher-Version" and services.http.response.html_title: "Loading&hellip;")
+Traefik Dashboards 🔎 →
+same_service(services.http.request.uri: "*/dashboard/" and services.http.response.html_title: "Traefik")
+  
+Weave Scope 🔎 →
+same_service(services.http.response.html_title: "Weave Scope" and services.http.response.body="*WEAVEWORKS_CSRF*")
+  
+Game Servers
+Counter-Strike Gameservers 🔎 →
+same_service(banner: "Counter-Strike" and service_name: VALVE)
+FiveM 🔎 →
+services: (port: 30120 and http.response.headers: (key: "Location" and value.headers: "https://cfx.re/join/*"))
+Media Servers
+Plex Media Server 🔎 →
+services.software.vendor: "Plex"
+  
+Jellyfin Media Server 🔎 →
+services.software.vendor: "Jellyfin"
+  
+MythWeb 🔎 →
+services.http.request.uri: "mythweb"
+   
+  
+Random Services
+Hosts emitting GNSS payloads 🔎 →
+services.banner: "$GPRMC"
+Directory Listing 🔎 →
+services.http.response.html_title: "Index of /"
+Swagger UI 🔎 →
+services.http.response.html_title: "Swagger UI - "
+   
+  
+Mongo Express Admin Interface 🔎 →
+services.http.response.html_title: "Home - Mongo Express"
+  
+shell2http 🔎 →
+services.http.response.html_title: "shell2http"
+Busybox Shells 🔎 →
+same_service(services.banner: "Enter 'help' for a list of built-in commands" and services.service_name: TELNET) and services.truncated: false
+   
+Unauthenticated Redis Servers 🔎 →
+services.redis.ping_response: "PONG"
+Misconfigured Kubernetes Installations 🔎 →
+services.kubernetes.pod_names: *
+Misconfigured WordPress 🔎 →
+services.http.response.body: "The wp-config.php creation script uses this file"
+Unconfigured AdGuard 🔎 →
+same_service(services.http.response.html_title: "Setup AdGuard Home" and services.http.request.uri="*/install.html")
+  
+Prometheus Node Exporters 🔎 →
+same_service(services.http.response.html_title: "node exporter" and services.http.response.body: "/metrics")
+VictoriaMetrics Agent 🔎 →
+services.http.response.body: "<h2>vmagent</h2>"
+   
+  
+SonarQube 🔎 →
+same_service(http.response.html_title: "SonarQube" and http.response.status_code: 200 and http.response.protocol: "HTTP/1.1")
+  
+Advanced Queries
+IPv6 Hosts 🔎 →
+ip:"2001::/3"
+Honeypots Hosts 🔎 →
+services.truncated: true
+North Korean Hosts 🔎 →
+location.country: "North Korea"
+Hosts that identify as US government or military 🔎 →
+dns.names: *.gov or dns.names: *.mil or name: *.gov or name: *.mil
+Services Listening on 53 that are not DNS 🔎 →
+same_service(services.port: 53 and not services.service_name: DNS) and services.truncated: false
+Alternative syntax without the services. prefix inside the same_service function:
+
+same_service(port: 53 and not service_name: DNS) and services.truncated: false
+Non-Standard Services Listening on Common Ports 🔎 →
+same_service(services.port: {21, 22, 80} and not services.service_name: {HTTP, SSH, FTP, UNKNOWN}) and services.truncated: false
+Services Listening on Port 22 that are not SSH 🔎 →
+same_service(services.port: 22 and not services.service_name: {SSH} and not services.banner: {"Connection refused", "SSH-", "Exceeded MaxStartups", "Too many users", "Connection closed by server"}) and services.truncated: false
+Services Listening on 80 or 443 that are not HTTP or HTTPS (or UNKNOWN with TLS) 🔎 →
+not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.certificates.leaf_data.subject_dn: *) and same_service(services.port: {80, 443} and not services.service_name: {KUBERNETES, ANYCONNECT, OPENVPN, HTTP} and not services.banner: “HTTP/”) and services.truncated: false
+Credits

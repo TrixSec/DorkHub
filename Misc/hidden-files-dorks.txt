@@ -1,0 +1,899 @@
+inurl:/cgi-bin/sqwebmail?noframes=1
+
+inurl:/Citrix/Nfuse17/
+
+inurl:/dana-na/auth/welcome.html
+
+inurl:/eprise/
+
+inurl:/Merchant2/admin.mv | inurl:/Merchant2/admin.mvc | intitle:”Miva Merchant 
+
+Administration Login” -inurl:cheap-malboro.net
+
+inurl:/modcp/ intext:Moderator+vBulletin
+
+inurl:/SUSAdmin intitle:”Microsoft Software update Services”
+
+inurl:/webedit.* intext:WebEdit Professional -html
+
+inurl:1810 “Oracle Enterprise Manager”
+
+inurl:2000 intitle:RemotelyAnywhere -site:realvnc.com
+
+inurl::2082/frontend -demo
+
+inurl:administrator “welcome to mambo”
+
+inurl:bin.welcome.sh | inurl:bin.welcome.bat | intitle:eHealth.5.0
+
+inurl:cgi-bin/ultimatebb.cgi?ubb=login
+
+inurl:Citrix/MetaFrame/default/default.aspx
+
+inurl:confixx inurl:login|anmeldung
+
+inurl:coranto.cgi intitle:Login (Authorized Users Only)
+
+inurl:csCreatePro.cgi
+
+inurl:default.asp intitle:”WebCommander”
+
+inurl:exchweb/bin/auth/owalogon.asp
+
+inurl:gnatsweb.pl
+
+inurl:ids5web
+
+inurl:irc filetype:cgi cgi:irc
+
+inurl:login filetype:swf 
+
+inurl:login.asp
+
+inurl:login.cfm
+
+inurl:login.php “SquirrelMail version”
+
+inurl:metaframexp/default/login.asp | intitle:”Metaframe XP Login”
+
+inurl:mewebmail
+
+inurl:names.nsf?opendatabase
+
+inurl:ocw_login_username
+
+inurl:orasso.wwsso_app_admin.ls_login
+
+inurl:postfixadmin intitle:"postfix admin"ext:php
+
+inurl:search/admin.php
+
+inurl:textpattern/index.php
+
+inurl:WCP_USER
+
+inurl:webmail./index.pl "Interface"
+
+inurl:webvpn.html "login" "Please enter your"
+
+
+CCTV Camera online - Google Dorks:
+
+inurl:view/view.shtml
+
+inurl:/view.shtml
+
+intitle:”Live View / - AXIS” | inurl:view/view.shtml^
+
+inurl:ViewerFrame?Mode=
+
+inurl:ViewerFrame?Mode=Refresh
+
+inurl:axis-cgi/jpg
+
+inurl:axis-cgi/mjpg (motion-JPEG)
+
+inurl:view/indexFrame.shtml
+
+inurl:view/index.shtml
+
+intitle:start inurl:cgistart
+
+intitle:”live view” intitle:axis
+
+intitle:snc-z20 inurl:home/
+
+intitle:liveapplet
+
+intitle:”i-Catcher Console - Web Monitor”
+
+intitle:axis intitle:”video server”
+
+intitle:liveapplet inurl:LvAppl
+
+intitle:”EvoCam” inurl:”webcam.html”
+
+intitle:”Live NetSnap Cam-Server feed”
+
+intitle:”Live View / - AXIS”
+
+intitle:”Live View / - AXIS 206W”
+
+intitle:”Live View / - AXIS 210″
+
+inurl:indexFrame.shtml Axis
+
+intitle:”Live View / - AXIS 206M”
+
+inurl:”MultiCameraFrame?Mode=Motion”
+
+allintitle:”Network Camera NetworkCamera”
+
+intitle:”WJ-NT104 Main Page”
+
+intext:”MOBOTIX M1″ intext:”Open Menu”
+
+intext:”MOBOTIX M10″ intext:”Open Menu”
+
+intext:”MOBOTIX D10″ intext:”Open Menu”
+
+intitle:”netcam live image”
+
+intitle:snc-cs3 inurl:home/
+
+intitle:snc-rz30 inurl:home/
+
+intitle:”sony network camera snc-p1″
+
+intitle:”sony network camera snc-m1″
+
+site:.viewnetcam.com -www.viewnetcam.com
+
+intitle:”Toshiba Network Camera” user login
+
++ View Webcam User Accessing
+
+allinurl:control/multiview
+
+intitle:”supervisioncam protocol”
+
+
+
+Local File Inclusion- Google Dorks:
+
+inurl:/view/lang/index.php?page=?page=
+
+inurl:/shared/help.php?page=
+
+inurl:act=
+
+inurl:action=
+
+inurl:API_HOME_DIR=
+
+inurl:board=
+
+inurl:cat=
+
+inurl:client_id=
+
+inurl:cmd=
+
+inurl:cont=
+
+inurl:current_frame=
+
+inurl:date=
+
+inurl:detail=
+
+inurl:dir=
+
+inurl:display=
+
+inurl:download=
+
+inurl:f=
+
+inurl:file=
+
+inurl:fileinclude=
+
+inurl:filename=
+
+inurl:firm_id=
+
+inurl:g=
+
+inurl:getdata=
+
+inurl:go=
+
+inurl:HT=
+
+inurl:idd=
+
+inurl:inc=
+
+inurl:incfile=
+
+inurl:incl=
+
+inurl:include_file=
+
+inurl:include_path=
+
+inurl:infile=
+
+inurl:info=
+
+inurl:ir=
+
+inurl:lang=
+
+inurl:language=
+
+inurl:link=
+
+inurl:load=
+
+inurl:main=
+
+inurl:mainspot=
+
+inurl:msg=
+
+inurl:num=
+
+inurl:openfile=
+
+inurl:p=
+
+inurl:page=
+
+inurl:pagina=
+
+inurl:path=
+
+inurl:path_to_calendar=
+
+inurl:pg=
+
+inurl:qry_str=
+
+inurl:ruta=
+
+inurl:safehtml=
+
+inurl:section=
+
+inurl:showfile=
+
+inurl:side=
+
+inurl:site_id=
+
+inurl:skin=
+
+inurl:static=
+
+inurl:str=
+
+inurl:strona=
+
+inurl:sub=
+
+inurl:tresc=
+
+inurl:url=
+
+inurl:user=
+
+inurl:ajax.php?page=
+
+
+To Gather Sensitive Data - Google Dorks:
+
+filetype:bak createobject sa
+filetype:bak inurl:"htaccess|passwd|shadow|htusers"
+filetype:cfg "mrtg"target
+filetype:cfm "cfapplication name" password
+filetype:conf oekakibbs
+filetype:conf slapd.conf
+filetype:config intext:appSettings “User ID”
+filetype:dat "password.dat"
+filetype:dat inurl:Sites.dat
+filetype:dat wand.dat
+filetype:inc dbconn
+filetype:inc intext:mysql_connect
+filetype:inc mysql_connect OR mysql_pconnect
+filetype:inf sysprep
+filetype:ini inurl:"serv-u.ini"
+filetype:ini inurl:flashFXP.ini
+filetype:ini ServUDaemon
+filetype:ini wcx_ftp
+filetype:ini ws_ftp pwd
+filetype:ldb admin
+filetype:log See ipsec –copyright
+filetype:log inurl:"password.log"
+filetype:mdb inurl:users.mdb
+filetype:mdb wwforum
+filetype:netrc password
+filetype:pass pass intext:userid
+filetype:pem intext:private
+filetype:properties inurl:db intext:password
+filetype:pwd service
+filetype:reg reg +intext:"defaultusername" +intext:"defaultpassword"
+filetype:reg reg HKEY_CURRENT_USER SSHHOSTKEYS
+filetype:sql "insert into" (pass|passwd|password)
+filetype:sql (“values * MD5″ | "values * password" | "values * encrypt")
+filetype:sql +"IDENTIFIED BY" -cvs
+filetype:sql password
+filetype:url +inurl:"ftp://" +inurl:";@"
+filetype:xls username password email
+intext:”enable password 7″
+intext:”enable secret 5 $”
+intext:”EZGuestbook”
+intext:”Web Wiz Journal”
+intitle:”index of” intext:connect.inc
+intitle:”index of” intext:globals.inc
+intitle:”Index of” passwords modified
+intitle:”Index of” sc_serv.conf sc_serv content
+intitle:”phpinfo()” +”mysql.default_password” +”Zend Scripting Language Engine”
+intitle:dupics inurl:(add.asp | default.asp | view.asp | voting.asp) -site:duware.com
+intitle:index.of administrators.pwd
+intitle:Index.of etc shadow
+intitle:index.of intext:”secring.skr”|”secring.pgp”|”secring.bak”
+inurl:”calendarscript/users.txt”
+inurl:”editor/list.asp” | inurl:”database_editor.asp” | inurl:”login.asa” “are set”
+inurl:”GRC.DAT” intext:”password”
+inurl:”Sites.dat”+”PASS=”
+inurl:”slapd.conf” intext:”credentials” -manpage -“Manual Page” -man: -sample
+inurl:”slapd.conf” intext:”rootpw” -manpage -“Manual Page” -man: -sample
+inurl:”wvdial.conf” intext:”password”
+inurl:/db/main.mdb
+inurl:/wwwboard
+inurl:/yabb/Members/Admin.dat
+inurl:ccbill filetype:log
+inurl:cgi-bin inurl:calendar.cfg
+inurl:chap-secrets -cvs
+inurl:config.php dbuname dbpass
+inurl:filezilla.xml -cvs
+inurl:lilo.conf filetype:conf password -tatercounter2000 -bootpwd -man
+inurl:nuke filetype:sql
+inurl:ospfd.conf intext:password -sample -test -tutorial -download
+inurl:pap-secrets -cvs
+inurl:pass.dat
+inurl:perform filetype:ini
+inurl:perform.ini filetype:ini
+inurl:secring ext:skr | ext:pgp | ext:bak
+inurl:server.cfg rcon password
+inurl:ventrilo_srv.ini adminpassword
+inurl:vtund.conf intext:pass -cvs
+inurl:zebra.conf intext:password -sample -test -tutorial -download
+filetype:bkf bkf
+filetype:blt “buddylist”
+filetype:blt blt +intext:screenname
+filetype:cfg auto_inst.cfg
+filetype:cnf inurl:_vti_pvt access.cnf
+filetype:conf inurl:firewall -intitle:cvs
+filetype:config web.config -CVS
+filetype:ctt Contact
+filetype:ctt ctt messenger
+filetype:eml eml +intext:”Subject” +intext:”From” +intext:”To”
+filetype:fp3 fp3
+filetype:fp5 fp5 -site:gov -site:mil -“cvs log”
+filetype:fp7 fp7
+filetype:inf inurl:capolicy.inf
+filetype:lic lic intext:key
+filetype:log access.log -CVS
+filetype:log cron.log
+filetype:mbx mbx intext:Subject
+filetype:myd myd -CVS
+filetype:ns1 ns1
+filetype:ora ora
+filetype:ora tnsnames
+filetype:pdb pdb backup (Pilot | Pluckerdb)
+filetype:php inurl:index inurl:phpicalendar -site:sourceforge.net
+filetype:pot inurl:john.pot
+filetype:PS ps
+filetype:pst inurl:”outlook.pst”
+filetype:pst pst -from -to -date
+filetype:qbb qbb
+filetype:QBW qbw
+filetype:rdp rdp
+filetype:reg “Terminal Server Client”
+filetype:vcs vcs
+filetype:wab wab
+filetype:xls -site:gov inurl:contact
+filetype:xls inurl:”email.xls”
+inurl:finance.xls
+inurl:finances.xls
+Ganglia Cluster Reports
+haccess.ctl
+ICQ chat logs, please…
+intext:”Session Start * * * *:*:* *” filetype:log
+intext:”Tobias Oetiker” “traffic analysis”
+intext:(password | passcode) intext:(username | userid | user) filetype:csv
+intext:SQLiteManager inurl:main.php
+intext:ViewCVS inurl:Settings.php
+intitle:”admin panel” +”RedKernel”
+intitle:”Apache::Status” (inurl:server-status | inurl:status.html | inurl:apache.html)
+intitle:”AppServ Open Project” -site:www.appservnetwork.com
+intitle:”ASP Stats Generator *.*” “ASP Stats Generator” “2003-2004 weppos”
+intitle:”Big Sister” +”OK Attention Trouble”
+intitle:”curriculum vitae” filetype:doc
+intitle:”edna:streaming mp3 server” -forums
+intitle:”index of” +myd size
+intitle:”Index Of” -inurl:maillog maillog size
+intitle:”Index Of” cookies.txt size
+intitle:”index of” mysql.conf OR mysql_config
+intitle:”Index of” upload size parent directory
+intitle:”index.of *” admin news.asp configview.asp
+intitle:”index.of” .diz .nfo last modified
+intitle:”Joomla – Web Installer”
+intitle:”LOGREP – Log file reporting system” -site:itefix.no
+intitle:”Multimon UPS status page”
+intitle:”PHP Advanced Transfer” (inurl:index.php | inurl:showrecent.php )
+intitle:”PhpMyExplorer” inurl:”index.php” -cvs
+intitle:”statistics of” “advanced web statistics”
+intitle:”System Statistics” +”System and Network Information Center”
+intitle:”urchin (5|3|admin)” ext:cgi
+intitle:”Usage Statistics for” “Generated by Webalizer”
+intitle:”wbem” compaq login “Compaq Information Technologies Group”
+intitle:”Web Server Statistics for ****”
+intitle:”web server status” SSH Telnet
+intitle:”Welcome to F-Secure Policy Manager Server Welcome Page”
+intitle:”welcome.to.squeezebox”
+intitle:admin intitle:login
+intitle:Bookmarks inurl:bookmarks.html “Bookmarks
+intitle:index.of “Apache” “server at”
+intitle:index.of cleanup.log
+intitle:index.of dead.letter
+intitle:index.of inbox
+intitle:index.of inbox dbx
+intitle:index.of ws_ftp.ini
+intitle:intranet inurl:intranet +intext:”phone”
+inurl:”/axs/ax-admin.pl” -script
+inurl:”/cricket/grapher.cgi”
+inurl:”bookmark.htm”
+inurl:”cacti” +inurl:”graph_view.php” +”Settings Tree View” -cvs -RPM
+inurl:”newsletter/admin/”
+inurl:”newsletter/admin/” intitle:”newsletter admin”
+inurl:”putty.reg”
+inurl:”smb.conf” intext:”workgroup” filetype:conf conf
+inurl:*db filetype:mdb
+inurl:/cgi-bin/pass.txt
+inurl:/_layouts/settings
+inurl:admin filetype:xls
+inurl:admin intitle:login
+inurl:backup filetype:mdb
+inurl:build.err
+inurl:cgi-bin/printenv
+inurl:cgi-bin/testcgi “Please distribute TestCGI”
+inurl:changepassword.asp
+inurl:ds.py
+inurl:email filetype:mdb
+inurl:fcgi-bin/echo
+inurl:forum filetype:mdb
+inurl:forward filetype:forward -cvs
+inurl:log.nsf -gov
+inurl:main.php phpMyAdmin
+inurl:main.php Welcome to phpMyAdmin
+inurl:netscape.hst
+inurl:netscape.ini
+inurl:odbc.ini ext:ini -cvs
+inurl:perl/printenv
+nurl:php.ini filetype:ini
+inurl:preferences.ini “[emule]”
+inurl:profiles filetype:mdb
+inurl:report “EVEREST Home Edition ”
+inurl:server-info “Apache Server Information”
+inurl:server-status “apache”
+inurl:snitz_forums_2000.mdb
+inurl:ssl.conf filetype:conf
+inurl:tdbin
+inurl:vbstats.php “page generated”
+inurl:wp-mail.php + “There doesn’t seem to be any new mail.”
+inurl:XcCDONTS.asp
+intitle:”Login Forum
+AnyBoard” intitle:”If you are a new user:” intext:”Forum
+AnyBoard” inurl:gochat -edu
+intitle:”Login to @Mail” (ext:pl | inurl:”index”) -waffleman
+!Host=*.* intext:enc_UserPassword=* ext:pcf
+“# -FrontPage-” ext:pwd inurl:(service | authors | administrators | users) “# -FrontPage-” inurl:service.pwd
+“AutoCreate=TRUE password=*”
+“http://*:*@www” domainname
+“index of/” “ws_ftp.ini” “parent directory”
+“liveice configuration file” ext:cfg -site:sourceforge.net
+“parent directory” +proftpdpasswd
+Duclassified” -site:duware.com “DUware All Rights reserved”
+duclassmate” -site:duware.com
+Dudirectory” -site:duware.com
+dudownload” -site:duware.com
+Elite Forum Version *.*”
+“sets mode: +k”
+“your password is” filetype:log
+DUpaypal” -site:duware.com
+allinurl: admin mdb
+auth_user_file.txt
+config.php
+eggdrop filetype:user user
+enable password | secret “current configuration” -intext:the
+etc (index.of)
+ext:asa | ext:bak intext:uid intext:pwd -“uid..pwd” database | server | dsn
+ext:inc “pwd=” “UID=”
+ext:ini eudora.ini
+ext:ini Version=4.0.0.4 password
+ext:passwd -intext:the -sample -example
+ext:txt inurl:unattend.txt
+ext:yml database inurl:config
+LeapFTP intitle:”index.of./” sites.ini modified
+master.passwd
+mysql history files
+NickServ registration passwords
+passlist
+passlist.txt
+passwd
+passwd / etc
+people.lst
+psyBNC config files
+pwd.db
+server-dbs “intitle:index of”
+signin filetype:url
+spwd.db / passwd
+trillian.ini
+wwwboard WebAdmin inurl:passwd.txt wwwboard|webadmin
+[WFClient] Password= filetype:ica
+intitle:”remote assessment” OpenAanval Console
+intitle:opengroupware.org “resistance is obsolete” “Report Bugs” “Username” “password”
+“bp blog admin” intitle:login | intitle:admin
+“Emergisoft web applications are a part of our”
+“Establishing a secure Integrated Lights Out session with” OR intitle:”Data Frame – Browser not HTTP 1.1 compatible” 
+OR intitle:”HP Integrated Lights-
+“HostingAccelerator” intitle:”login” +”Username” -“news” -demo
+“iCONECT 4.1 :: Login”
+“IMail Server Web Messaging” intitle:login
+“inspanel” intitle:”login” -“cannot” “Login ID”
+“Login – Sun Cobalt RaQ”
+“login prompt” inurl:GM.cgi
+“Login to Usermin” inurl:20000
+“Microsoft CRM : Unsupported Browser Version”
+“OPENSRS Domain Management” inurl:manage.cgi
+“pcANYWHERE EXPRESS Java Client”
+“Please authenticate yourself to get access to the management interface”
+“please log in”
+“Please login with admin pass” -“leak”
+CuteNews” “2003..2005 CutePHP”
+DWMail” password intitle:dwmail
+Merak Mail Server Software" -.gov -.mil -.edu
+Midmart Messageboard” “Administrator Login”
+Monster Top List” MTL numrange:200-
+UebiMiau” -site:sourceforge.net
+“site info for” “Enter Admin Password”
+“SquirrelMail version” “By the SquirrelMail development Team”
+“SysCP – login”
+“This is a restricted Access Server” “Javascript Not Enabled!”|”Messenger Express” -edu -ac
+“This section is for Administrators only. If you are an administrator then please”
+“ttawlogin.cgi/?action=”
+“VHCS Pro ver” -demo
+“VNC Desktop” inurl:5800
+“Web-Based Management” “Please input password to login”
+“WebExplorer Server – Login” “Welcome to WebExplorer Server”
+“WebSTAR Mail – Please Log In”
+“You have requested access to a restricted area of our website. Please authenticate yourself to continue.”
+“You have requested to access the management functions” -.edu
+(intitle:”Please login – Forums UBB.threads”)|(inurl:login.php “ubb”)
+(intitle:”Please login – Forums WWWThreads”)|(inurl:”wwwthreads/login.php”)|(inurl:”wwwthreads/login.pl?Cat=”)
+(intitle:”rymo Login”)|(intext:”Welcome to rymo”) -family
+(intitle:”WmSC e-Cart Administration”)|(intitle:”WebMyStyle e-Cart Administration”)
+(inurl:”ars/cgi-bin/arweb?O=0″ | inurl:arweb.jsp) -site:remedy.com -site:mil
+4images Administration Control Panel
+allintitle:”Welcome to the Cyclades”
+allinurl:”exchange/logon.asp”
+allinurl:wps/portal/ login
+ASP.login_aspx “ASP.NET_SessionId”
+CGI:IRC Login
+ext:cgi intitle:”control panel” “enter your owner password to continue!”
+ez Publish administration
+filetype:php inurl:”webeditor.php”
+filetype:pl “Download: SuSE Linux Openexchange Server CA”
+filetype:r2w r2w
+Novell NetWare intext:”netware management portal version”
+PHPhotoalbum Statistics
+PHPhotoalbum Upload
+Please enter a valid password! inurl:polladmin
+intitle:”DocuShare” inurl:”docushare/dsweb/” -faq -gov -edu
+“#mysql dump” filetype:sql
+“#mysql dump” filetype:sql 21232f297a57a5a743894a0e4a801fc3
+“allow_call_time_pass_reference” “PATH_INFO”
+“Certificate Practice Statement” inurl:(PDF | DOC)
+“Generated by phpSystem”
+“generated by wwwstat”
+“Host Vulnerability Summary Report”
+“Index of” / “chat/logs”
+“Installed Objects Scanner” inurl:default.asp
+“MacHTTP” filetype:log inurl:machttp.log
+“Mecury Version” “Infastructure Group”
+“Microsoft (R) Windows * (TM) Version * DrWtsn32 Copyright (C)” ext:log
+“Most Submitted Forms and scripts” “this section”
+“Network Vulnerability Assessment Report”
+“not for distribution” confidential
+“not for public release” -.edu -.gov -.mil
+“phone * * *” “address *” “e-mail” intitle:”curriculum vitae”
+“phpMyAdmin” “running on” inurl:”main.php”
+“produced by getstats”
+“Request Details” “Control Tree” “Server Variables”
+“robots.txt” “Disallow:” filetype:txt
+“Running in Child mode”
+“sets mode: +p”
+“sets mode: +s”
+“Thank you for your order” +receipt
+“This is a Shareaza Node”
+“This report was generated by WebLog”
+( filetype:mail | filetype:eml | filetype:mbox | filetype:mbx ) intext:password|subject
+(intitle:”PRTG Traffic Grapher” inurl:”allsensors”)|(intitle:”PRTG Traffic Grapher – Monitoring Results”)
+(intitle:WebStatistica inurl:main.php) | (intitle:”WebSTATISTICA server”) -inurl:statsoft -inurl:statsoftsa -
+inurl:statsoftinc.com -edu -software -rob
+(inurl:”robot.txt” | inurl:”robots.txt” ) intext:disallow filetype:txt
++”:8080″ +”:3128″ +”:80″ filetype:txt
+-site:php.net -“The PHP Group” inurl:source inurl:url ext:pHp
+94FBR “ADOBE PHOTOSHOP”
+AIM buddy lists
+allinurl:/examples/jsp/snp/snoop.jsp
+allinurl:cdkey.txt
+allinurl:servlet/SnoopServlet
+cgiirc.conf
+contacts ext:wml
+data filetype:mdb -site:gov -site:mil
+exported email addresses
+ext:(doc | pdf | xls | txt | ps | rtf | odt | sxw | psw | ppt | pps | xml) (intext:confidential salary | intext:”budget approved”) 
+inurl:confidential
+ext:asp inurl:pathto.asp
+ext:ccm ccm -catacomb
+ext:CDX CDX
+ext:cgi inurl:editcgi.cgi inurl:file=
+ext:conf inurl:rsyncd.conf -cvs -man
+ext:conf NoCatAuth -cvs
+ext:dat bpk.dat
+ext:gho gho
+ext:ics ics
+ext:ini intext:env.ini
+ext:jbf jbf
+ext:ldif ldif
+ext:log “Software: Microsoft Internet Information Services *.*”
+ext:mdb inurl:*.mdb inurl:fpdb shop.mdb
+ext:nsf nsf -gov -mil
+ext:plist filetype:plist inurl:bookmarks.plist
+ext:pqi pqi -database
+ext:reg “username=*” putty
+ext:txt “Final encryption key”
+ext:txt inurl:dxdiag
+ext:vmdk vmdk
+ext:vmx vmx
+filetype:asp DBQ=” * Server.MapPath(“*.mdb”)
+ipsec.conf
+ipsec.secrets
+“detected an internal error [IBM][CLI Driver][DB2/6000]”
+“error found handling the request” cocoon filetype:xml
+“Incorrect syntax near”
+“Internal Server Error” “server at”
+“Invision Power Board Database Error”
+“ORA-00933: SQL command not properly ended”
+“ORA-12541: TNS:no listener” intitle:”error occurred”
+“Parse error: parse error, unexpected T_VARIABLE” “on line” filetype:php
+“PostgreSQL query failed: ERROR: parser: parse error”
+“Supplied argument is not a valid MySQL result resource”
+“Syntax error in query expression ” -the
+“The script whose uid is ” “is not allowed to access”
+“There seems to have been a problem with the” ” Please try again by clicking the Refresh button in your web browser.”
+“Unable to jump to row” “on MySQL result index” “on line”
+“Unclosed quotation mark before the character string”
+“Warning: Bad arguments to (join|implode) () in” “on line” -help -forum
+“Warning: Cannot modify header information – headers already sent”
+“Warning: Division by zero in” “on line” -forum
+“Warning: mysql_connect(): Access denied for user: ‘*@*” “on line” -help -forum
+“Warning: mysql_query()” “invalid query”
+“Warning: pg_connect(): Unable to connect to PostgreSQL server: FATAL”
+“Warning: Supplied argument is not a valid File-Handle resource in”
+“Warning:” “failed to open stream: HTTP request failed” “on line”
+“Warning:” “SAFE MODE Restriction in effect.” “The script whose uid is” “is not allowed to access owned by uid 0 in” “on line”
+“SQL Server Driver][SQL Server]Line 1: Incorrect syntax near”
+An unexpected token “END-OF-STATEMENT” was found
+Coldfusion Error Pages
+filetype:asp + “[ODBC SQL”
+filetype:asp “Custom Error Message” Category Source
+filetype:log “PHP Parse error” | “PHP Warning” | “PHP Error”
+filetype:php inurl:”logging.php” “Discuz” error
+ht://Dig htsearch error
+IIS 4.0 error messages
+IIS web server error messages
+intext:”Error Message : Error loading required libraries.”
+intext:”Warning: Failed opening” “on line” “include_path”
+intitle:”Apache Tomcat” “Error Report”
+intitle:”Default PLESK Page”
+intitle:”Error Occurred While Processing Request” +WHERE (SELECT|INSERT) filetype:cfm
+intitle:”Error Occurred” “The error occurred in” filetype:cfm
+intitle:”Error using Hypernews” “Server Software”
+intitle:”Execution of this script not permitted”
+intitle:”Under construction” “does not currently have”
+intitle:Configuration.File inurl:softcart.exe
+MYSQL error message: supplied argument….
+mysql error with query
+Netscape Application Server Error page
+ORA-00921: unexpected end of SQL command
+ORA-00936: missing expression
+PHP application warnings failing “include_path”
+sitebuildercontent
+sitebuilderfiles
+sitebuilderpictures
+Snitz! forums db path error
+SQL syntax error
+Supplied argument is not a valid PostgreSQL result
+warning “error on line” php sablotron
+Windows 2000 web server error messages
+“ftp://” “www.eastgame.net”
+“html allowed” guestbook
+“: vBulletin Version 1.1.5″
+“Select a database to view” intitle:”filemaker pro”
+“set up the administrator user” inurl:pivot
+“There are no Administrators Accounts” inurl:admin.php -mysql_fetch_row
+“Welcome to Administration” “General” “Local Domains” “SMTP Authentication” inurl:admin
+“Welcome to Intranet”
+“Welcome to PHP-Nuke” congratulations
+“Welcome to the Prestige Web-Based Configurator”
+“YaBB SE Dev Team”
+“you can now password” | “this is a special page only seen by you. your profile visitors” inurl:imchaos
+(“Indexed.By”|”Monitored.By”) hAcxFtpScan
+(inurl:/shop.cgi/page=) | (inurl:/shop.pl/page=)
+allinurl:”index.php” “site=sglinks”
+allinurl:install/install.php
+allinurl:intranet admin
+filetype:cgi inurl:”fileman.cgi”
+filetype:cgi inurl:”Web_Store.cgi”
+filetype:php inurl:vAuthenticate
+filetype:pl intitle:”Ultraboard Setup”
+Gallery in configuration mode
+Hassan Consulting’s Shopping Cart Version 1.18
+intext:”Warning: * am able * write ** configuration file” “includes/configure.php” –
+intitle:”Gateway Configuration Menu”
+intitle:”Horde :: My Portal” -“[Tickets”
+intitle:”Mail Server CMailServer Webmail” “5.2”
+intitle:”MvBlog powered”
+intitle:”Samba Web Administration Tool” intext:”Help Workgroup”
+intitle:”Terminal Services Web Connection”
+intitle:”Uploader – Uploader v6″ -pixloads.com
+intitle:osCommerce inurl:admin intext:”redistributable under the GNU” intext:”Online Catalog” -demo -site:oscommerce.com
+intitle:phpMyAdmin “Welcome to phpMyAdmin ***” “running on * as root@*”
+inurl:”/NSearch/AdminServlet”
+inurl:”index.php? module=ew_filemanager”
+inurl:aol*/_do/rss_popup?blogID=
+inurl:footer.inc.php
+inurl:info.inc.php
+inurl:ManyServers.htm
+inurl:newsdesk.cgi? inurl:”t=”
+inurl:pls/admin_/gateway.htm
+inurl:rpSys.html
+inurl:search.php vbulletin
+inurl:servlet/webacc
+natterchat inurl:home.asp -site:natterchat.co.uk
+XOOPS Custom Installation
+inurl:htpasswd filetype:htpasswd
+inurl:yapboz_detay.asp
+intitle:”WJ-NT104 Main Page”
+inurl:netw_tcp.shtml
+mail filetype:csv -site:gov intext:name
+Microsoft Money Data Files
+mt-db-pass.cgi files
+MySQL tabledata dumps
+mystuff.xml – Trillian data files
+OWA Public Folders 
+php-addressbook “This is the addressbook for *” -warning
+private key files (.csr)
+private key files (.key)
+Quicken data files
+rdbqds -site:.edu -site:.mil -site:.gov
+robots.txt
+site:edu admin grades
+site:www.mailinator.com inurl:ShowMail.do
+SQL data dumps
+Squid cache server reports
+Unreal IRCd
+WebLog Referrers
+Welcome to ntop!
+filetype:log intext:”ConnectionManager2″
+“apricot – admin” 00h
+“by Reimar Hoven. All Rights Reserved. Disclaimer” | inurl:”log/logdb.dta”
+“Network Host Assessment Report” “Internet Scanner”
+“Output produced by SysWatch *”
+“Phorum Admin” “Database Connection” inurl:forum inurl:admin
+phpOpenTracker” Statistics
+“powered | performed by Beyond Security’s Automated Scanning” -kazaa -example
+“Shadow Security Scanner performed a vulnerability assessment”
+“SnortSnarf alert page”
+“The following report contains confidential information” vulnerability -search
+“The statistics were last updated” “Daily”-microsoft.com
+“this proxy is working fine!” “enter *” “URL***” * visit
+“This report lists” “identified by Internet Scanner”
+“Traffic Analysis for” “RMON Port * on unit *”
+“Version Info” “Boot Version” “Internet Settings”
+((inurl:ifgraph “Page generated at”) OR (“This page was built using ifgraph”))
+Analysis Console for Incident Databases
+ext:cgi intext:”nrg-” ” This web page was created on ”
+filetype:pdf “Assessment Report” nessus
+filetype:php inurl:ipinfo.php “Distributed Intrusion Detection System”
+filetype:php inurl:nqt intext:”Network Query Tool”
+filetype:vsd vsd network -samples -examples
+intext:”Welcome to the Web V.Networks” intitle:”V.Networks [Top]” -filetype:htm
+intitle:”ADSL Configuration page”
+intitle:”Azureus : Java BitTorrent Client Tracker”
+intitle:”Belarc Advisor Current Profile” intext:”Click here for Belarc’s PC Management products, for large and small companies.”
+intitle:”BNBT Tracker Info”
+intitle:”Microsoft Site Server Analysis”
+intitle:”Nessus Scan Report” “This file was generated by Nessus”
+intitle:”PHPBTTracker Statistics” | intitle:”PHPBT Tracker Statistics”
+intitle:”Retina Report” “CONFIDENTIAL INFORMATION”
+intitle:”start.managing.the.device” remote pbx acc
+intitle:”sysinfo * ” intext:”Generated by Sysinfo * written by The Gamblers.”
+intitle:”twiki” inurl:”TWikiUsers”
+inurl:”/catalog.nsf” intitle:catalog
+inurl:”install/install.php”
+inurl:”map.asp?” intitle:”WhatsUp Gold”
+inurl:”NmConsole/Login.asp” | intitle:”Login – Ipswitch WhatsUp Professional 2005″ | intext:”Ipswitch WhatsUp 
+Professional 2005 (SP1)” “Ipswitch, Inc”
+inurl:”sitescope.html” intitle:”sitescope” intext:”refresh” -demo
+inurl:/adm-cfgedit.php
+inurl:/cgi-bin/finger? “In real life”
+inurl:/cgi-bin/finger? Enter (account|host|user|username)
+inurl:/counter/index.php intitle:”+PHPCounter 7.*”
+inurl:CrazyWWWBoard.cgi intext:”detailed debugging information”
+inurl:login.jsp.bak
+inurl:ovcgi/jovw
+inurl:phpSysInfo/ “created by phpsysinfo”
+inurl:portscan.php “from Port”|”Port Range”
+inurl:proxy | inurl:wpad ext:pac | ext:dat findproxyforurl
+inurl:statrep.nsf -gov
+inurl:status.cgi?host=all
+inurl:testcgi xitami
+inurl:webalizer filetype:png -.gov -.edu -.mil -opendarwin
+inurl:webutil.pl
+site:netcraft.com intitle:That.Site.Running Apache
+“A syntax error has occurred” filetype:ihtml
+“access denied for user” “using password”
+“An illegal character has been found in the statement” -“previous message”
+“ASP.NET_SessionId” “data source=”
+“Can’t connect to local” intitle:warning
+“Chatologica MetaSearch” “stack tracking”
+“Fatal error: Call to undefined function” -reply -the -next
+“Duclassified” -site:duware.com “DUware All Rights reserved”
+“Elite Forum Version *.*”
+“Link Department”
+“Chatologica MetaSearch” “stack tracking:”
+“Index of /backup”
+“ORA-00921: unexpected end of SQL command”
+“parent directory ” /appz/ -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+“parent directory ” DVDRip -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+“parent directory ” Gamez -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+“parent directory ” MP3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+“parent directory ” Name of Singer or album -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+“parent directory “Xvid -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+?intitle:index.of? mp3 name
+allinurl:auth_user_file.txt
+inurl:passlist.txt
+filetype:bak inurl:”htaccess|passwd|shadow|htusers”
+filetype:cfg mrtg “target
+filetype:cfm “cfapplication name” password
+filetype:config config intext:appSettings “User ID”
+filetype:dat “password.dat”
+filetype:ini inurl:”serv-u.ini”
+filetype:log “See `ipsec –copyright”
+filetype:log inurl:”password.log”
+filetype:pwl pwl
+filetype:reg reg +intext:”defaultusername” +intext:”defaultpassword”
+filetype:reg reg +intext:Ã¢? WINVNC3Ã¢?
+filetype:sql “insert into” (pass|passwd|password)
+filetype:sql (“values * MD5″ | “values * password” | “values * encrypt”)
+filetype:sql +”IDENTIFIED BY” -cvs
+filetype:url +inurl:”ftp://” +inurl:”;@”
+htpasswd
+htpasswd / htgroup

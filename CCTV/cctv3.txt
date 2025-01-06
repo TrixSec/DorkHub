@@ -1,0 +1,127 @@
+allintitle: “Network Camera NetworkCamera” Network cameras
+
+intitle:Axis 2400 video server Mostly security cameras, car parks, colleges, clubs, bars, etc.
+
+intitle:axis intitle:”video server” Mostly security cameras, car parks, colleges, bars, ski slopes etc.
+
+intitle:”EvoCam” inurl:”webcam.html” Mostly European security cameras
+
+intitle:”Live NetSnap Cam-Server feed” Network cameras, private and non private web cameras
+
+intitle:”Live View / – AXIS” Mostly security cameras, car parks, colleges etc.
+
+intitle:”LiveView / – AXIS” | inurl:view/view.shtml Mostly security cameras, car parks, colleges etc.
+
+intitle:liveapplet Mostly security cameras, car parks, colleges, clubs, bars etc.
+
+intitle:snc-cs3 inurl:home/ Mostly security cameras, swimming pools and more etc.
+
+intitle:”snc-rz30 home” Mostly security cameras, shops, car parks
+
+intitle:snc-z20 inurl:home/ Mostly security cameras, swimming pools and more etc.
+
+intitle:”WJ-NT104 Main” Mostly security cameras, shops, car parks
+
+inurl:LvAppl intitle:liveapplet Mostly security cameras, car parks, colleges etc.
+
+inurl:indexFrame.shtml “Axis Video Server” Mostly security cameras, car parks, colleges etc.
+
+inurl:lvappl A huge list of webcams around the world, mostly security cameras, car parks, colleges etc.
+
+inurl:axis-cgi/jpg Mostly security cameras
+
+inurl:indexFrame.shtml Axis Mostly security cameras, car parks, colleges etc.
+
+inurl:”MultiCameraFrame?Mode=Motion” Mostly security cameras, pet shops, colleges etc.
+
+inurl:/view.shtml Mostly security cameras, car parks, colleges etc.
+
+inurl:/view/index.shtml Mostly security cameras, airports, car parks, back gardens, traffic cams etc.
+
+inurl:viewerframe?mode= Network cameras, mostly private webcams etc.
+
+inurl:”viewerframe?mode=motion” Network cameras
+
+inurl:ViewerFrame?Mode=RefreshMostly security cameras, parks, bird tables etc.
+
+Other searches:
+
+control/userimage.html
+
+liveapplet
+
+inurl:indexframe.shtml
+
+inurl:”view/index.shtml”
+
+inurl:”view/indexFrame.shtml”
+
+inurl:view/view.shtml
+
+inurl:/view/view.shtml?videos=
+
+inurl:ViewerFrame?Mode=
+
+inurl:ViewerFrame?Mode=Motion
+
+inurl:ViewerFrame?Mode=Refresh
+
+In Title:
+
+intitle:”live view” intitle:axis
+
+intitle:”EvoCam” inurl:”webcam.html”
+
+intitle:”i-Catcher Console – Web Monitor”
+
+intitle:”Live NetSnap Cam-Server feed”
+
+allintitle:liveapplet
+
+intitle:liveapplet
+
+intitle:”netcam live image”
+
+intitle:”snc-rz30 home”
+
+intitle:”WJ-NT104 Main”
+
+In URL:
+
+inurl:axis-cgi/jpg
+
+inurl:indexFrame.shtml Axis
+
+inurl:indexFrame.shtml “Axis Video Server”
+
+inurl:lvappl live webcams
+
+inurl:LvAppl intitle:liveapplet
+
+inurl:”MultiCameraFrame?Mode=Motion”
+
+inurl:/view:shtml
+
+inurl:/view/index.shtml
+
+inurl:view/indexframe.shtml
+
+inurl:view/view.shtml
+
+viewerframe?mode=
+
+inurl:”viewerframe?mode=motion”
+
+inurl:ViewerFrame?Mode=Refresh
+
+Two searches in one order:
+
+intitle:”live view” intitle:axis (two searches in one order)
+
+intitle:axis intitle:”video server”
+
+intitle:liveapplet inurl:LvAppl
+
+intitle:”Live View / – AXIS” | inurl:view/view.shtml
+
+intitle:start inurl:cgistart

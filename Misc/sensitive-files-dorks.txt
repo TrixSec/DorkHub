@@ -1,0 +1,84 @@
+1. General File Searches
+intitle:"index of" "parent directory" ext:pdf
+filetype:xls inurl:"/confidential"
+inurl:/admin/backup filetype:sql
+filetype:docx site:gov "confidential"
+inurl:"/securedocs" filetype:pdf
+2. Sensitive Directories
+intitle:"index of" "backup"
+inurl:"/private" intitle:"index of"
+intitle:"index of" "passwords"
+inurl:/db_backup filetype:sql
+intitle:"index of" "/config"
+3. Login Credentials
+intext:"username" filetype:log
+intitle:"index of" "passwd"
+filetype:txt "passwords" site:edu
+filetype:sql intext:"INSERT INTO" "password"
+inurl:"/ftp" filetype:log
+4. Configuration Files
+intitle:"index of" "config.php"
+filetype:env intext:"DB_PASSWORD"
+inurl:"/wp-config" filetype:php
+intitle:"index of" "apache.conf"
+inurl:"/config" filetype:xml
+5. Database Dumps
+filetype:sql inurl:/dump/
+intitle:"index of" "mysql_dump"
+intext:"CREATE DATABASE" filetype:sql
+filetype:sql intext:"-- phpMyAdmin SQL Dump"
+inurl:/db_backups/ filetype:sql
+6. Sensitive Documents
+filetype:pdf "internal use only"
+filetype:docx "confidential"
+intitle:"index of" "sensitive" ext:pdf
+filetype:xlsx "financial"
+inurl:"/docs" "restricted" filetype:pdf
+7. Server Logs
+filetype:log inurl:"/logs"
+intitle:"index of" "access.log"
+filetype:log "error" "server at"
+inurl:/var/log/ filetype:log
+inurl:"/logs" "server.log"
+8. Private Photos and Videos
+intitle:"index of" "photos" ext:jpg
+filetype:mp4 inurl:"/videos"
+inurl:"/uploads" ext:png
+intitle:"index of" "camera" ext:jpeg
+filetype:mov inurl:"/private"
+9. Government and Educational Records
+site:gov filetype:pdf "not for public distribution"
+inurl:"/research" "restricted" filetype:pdf
+filetype:xls site:edu "student records"
+inurl:"/confidential" site:gov
+filetype:doc site:edu "restricted"
+10. E-Commerce Data
+filetype:xls "order details"
+intitle:"index of" "customer_data"
+filetype:csv "credit card" site:com
+filetype:xlsx "transactions"
+inurl:/payment filetype:txt
+11. Medical and Legal Records
+filetype:pdf "medical records"
+intitle:"index of" "law" filetype:doc
+inurl:"/patients" filetype:doc
+filetype:xls "legal" "confidential"
+inurl:"/docs" "restricted" filetype:pdf
+12. Network and Device Information
+intitle:"index of" "network config"
+filetype:xml intext:"cisco"
+inurl:"/networks" filetype:conf
+intitle:"index of" "router"
+filetype:conf "hostname"
+13. Security Cameras and Streams
+inurl:"/view/view.shtml"
+inurl:"/axis-cgi/mjpg"
+inurl:"/video.cgi"
+inurl:"/liveview.html"
+inurl:"/webcam.html"
+14. Miscellaneous Sensitive Data
+intitle:"index of" "tax returns"
+filetype:csv "password"
+inurl:"/secrets" filetype:txt
+intitle:"index of" "classified"
+filetype:json "api_key"
