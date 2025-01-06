@@ -8,7 +8,7 @@ DorkHub is the security researcher's companion. It’s a comprehensive repositor
 
 ---
 
-![DorkHub Logo](https://github.com/TrixSec/DorkHub/blob/main/ss/dorkhub-logo.jpg?raw=true)  
+![DorkHub Logo](https://github.com/TrixSec/DorkHub/blob/main/logo/dorkhub-logo.png?raw=true)  
 ![Repo View Counter](https://profile-counter.glitch.me/DorkHub/count.svg)
 
 ## Overview
