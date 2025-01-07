@@ -43,6 +43,9 @@ Content Management System (CMS) specific dorks for platforms like WordPress, Joo
 ### Cryptocurrency Dorks
 Dorks focused on finding exposed cryptocurrency wallets, transactions, and related sensitive data.
 
+### Exploit DB
+All Dorks From Exploit Database (ghdb) Are Categorised Here 
+
 ### Gaming Dorks
 Dorks related to gaming platforms, servers, and forums.
 
