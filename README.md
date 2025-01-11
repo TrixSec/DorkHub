@@ -73,6 +73,10 @@ Dorks tailored for the Shodan search engine to find exposed devices and services
 ### Shopping Dorks
 Dorks for finding vulnerabilities and sensitive data in online shopping platforms.
 
+### Social Media Dorks
+- Instagram 
+
+
 ### SQLI Dorks
 SQL Injection (SQLI) specific dorks for identifying vulnerable endpoints.
 
