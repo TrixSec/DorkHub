@@ -135,4 +135,67 @@
 
 ---
 
+### Google Dorks for Specific Instagram User Info Gathering
+
+1. `site:instagram.com "inurl:/p/"" "username"`
+2. `site:instagram.com "inurl:/user/username/"`
+3. `site:instagram.com "inurl:/profile/username"`
+4. `site:instagram.com "username" "followers"`
+5. `site:instagram.com "username" "following"`
+6. `site:instagram.com "username" "bio"`
+7. `site:instagram.com "username" "location"`
+8. `site:instagram.com "username" "public profile"`
+9. `site:instagram.com "username" "posts"`
+10. `site:instagram.com "username" "hashtag"`
+
+### Specific Instagram User Profile Info
+11. `site:instagram.com inurl:"/user/username/" "bio"`
+12. `site:instagram.com inurl:"/p/username/" "photo"`
+13. `site:instagram.com inurl:"/tagged/username"`
+14. `site:instagram.com "username" "intitle:profile"`
+15. `site:instagram.com "username" "location tagged"`
+16. `site:instagram.com "username" "check-in"`
+17. `site:instagram.com "username" "followers count"`
+18. `site:instagram.com "username" "following count"`
+19. `site:instagram.com "username" "story"`
+20. `site:instagram.com "username" "intitle:story"`
+
+### Posts and Media Related to a Specific Instagram User
+21. `site:instagram.com inurl:/p/ username`
+22. `site:instagram.com inurl:/stories/ username`
+23. `site:instagram.com inurl:/reels/ username`
+24. `site:instagram.com "username" "filetype:jpg"`
+25. `site:instagram.com "username" "filetype:png"`
+26. `site:instagram.com "username" "filetype:mp4"`
+27. `site:instagram.com "username" "filetype:mkv"`
+28. `site:instagram.com "username" "post media"`
+29. `site:instagram.com "username" "media gallery"`
+30. `site:instagram.com "username" "photo album"`
+
+### Hashtags and User-Specific Content
+31. `site:instagram.com inurl:/explore/tags/username`
+32. `site:instagram.com "username" "intext:#username"`
+33. `site:instagram.com "username" "intext:#personal"`
+34. `site:instagram.com "username" "intext:#travel"`
+35. `site:instagram.com "username" "intext:#fitness"`
+36. `site:instagram.com "username" "intext:#family"`
+37. `site:instagram.com "username" "intext:#work"`
+38. `site:instagram.com "username" "intext:#life"`
+39. `site:instagram.com "username" "intext:#fun"`
+40. `site:instagram.com "username" "intext:#food"`
+
+### Additional Info Related to the User's Instagram Presence
+41. `site:instagram.com "username" "intext:verified"`
+42. `site:instagram.com "username" "intext:business"`
+43. `site:instagram.com "username" "intext:service"`
+44. `site:instagram.com "username" "intext:product"`
+45. `site:instagram.com "username" "intext:contact"`
+46. `site:instagram.com "username" "intitle:shop"`
+47. `site:instagram.com "username" "intitle:store"`
+48. `site:instagram.com "username" "intitle:brand"`
+49. `site:instagram.com "username" "contact email"`
+50. `site:instagram.com "username" "phone number"`
+
+---
+
 These dorks are useful for information gathering, identifying publicly available data, and understanding how content is indexed on Instagram. Always ensure you use these dorks responsibly and within the boundaries of the law.
