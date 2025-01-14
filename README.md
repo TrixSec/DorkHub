@@ -78,6 +78,7 @@ Dorks Related To Social Media Sites Like:
 - Instagram 
 - Facebook
 - Twitter (X)
+- Linkedin
 
 ### SQLI Dorks
 SQL Injection (SQLI) specific dorks for identifying vulnerable endpoints.
