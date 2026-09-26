@@ -1,0 +1,558 @@
+{
+  "version": "2.0",
+  "last_updated": "2026-09-26 11:45:47Z",
+  "total_dorks": 919663,
+  "total_categories": 27,
+  "categories": [
+    {
+      "name": "ai-ml",
+      "dork_count": 3,
+      "files": [
+        {
+          "path": "ai-ml/aiml-dorks.txt",
+          "dork_count": 3
+        }
+      ]
+    },
+    {
+      "name": "api",
+      "dork_count": 8,
+      "files": [
+        {
+          "path": "api/api-dorks.txt",
+          "dork_count": 8
+        }
+      ]
+    },
+    {
+      "name": "backlink",
+      "dork_count": 507,
+      "files": [
+        {
+          "path": "backlink/blogengine.txt",
+          "dork_count": 106
+        },
+        {
+          "path": "backlink/captchadorks.txt",
+          "dork_count": 23
+        },
+        {
+          "path": "backlink/forumsdorks.txt",
+          "dork_count": 123
+        },
+        {
+          "path": "backlink/general.txt",
+          "dork_count": 24
+        },
+        {
+          "path": "backlink/image-comments-dorks.txt",
+          "dork_count": 168
+        },
+        {
+          "path": "backlink/scuttledorks.txt",
+          "dork_count": 25
+        },
+        {
+          "path": "backlink/wikidorks.txt",
+          "dork_count": 38
+        }
+      ]
+    },
+    {
+      "name": "bug-bounty",
+      "dork_count": 69,
+      "files": [
+        {
+          "path": "bug-bounty/bbdorks.txt",
+          "dork_count": 69
+        }
+      ]
+    },
+    {
+      "name": "carding",
+      "dork_count": 1802,
+      "files": [
+        {
+          "path": "carding/cdorks1.txt",
+          "dork_count": 877
+        },
+        {
+          "path": "carding/cdorks2.txt",
+          "dork_count": 925
+        }
+      ]
+    },
+    {
+      "name": "cctv",
+      "dork_count": 390,
+      "files": [
+        {
+          "path": "cctv/cctv.txt",
+          "dork_count": 328
+        },
+        {
+          "path": "cctv/cctv3.txt",
+          "dork_count": 62
+        }
+      ]
+    },
+    {
+      "name": "censys",
+      "dork_count": 207,
+      "files": [
+        {
+          "path": "censys/censysdork.txt",
+          "dork_count": 207
+        }
+      ]
+    },
+    {
+      "name": "ci-cd",
+      "dork_count": 6,
+      "files": [
+        {
+          "path": "ci-cd/cicd-dorks.txt",
+          "dork_count": 6
+        }
+      ]
+    },
+    {
+      "name": "cloud",
+      "dork_count": 58,
+      "files": [
+        {
+          "path": "cloud/aws.txt",
+          "dork_count": 21
+        },
+        {
+          "path": "cloud/azure.txt",
+          "dork_count": 17
+        },
+        {
+          "path": "cloud/googlecloud.txt",
+          "dork_count": 7
+        },
+        {
+          "path": "cloud/ibmcloud.txt",
+          "dork_count": 12
+        },
+        {
+          "path": "cloud/others.txt",
+          "dork_count": 1
+        }
+      ]
+    },
+    {
+      "name": "cms",
+      "dork_count": 21424,
+      "files": [
+        {
+          "path": "cms/Joomla/joomla.txt",
+          "dork_count": 366
+        },
+        {
+          "path": "cms/Laravel/laravel.txt",
+          "dork_count": 420
+        },
+        {
+          "path": "cms/Magento/magento.txt",
+          "dork_count": 72
+        },
+        {
+          "path": "cms/Wordpress/wp.txt",
+          "dork_count": 20094
+        },
+        {
+          "path": "cms/Wordpress/wp2.txt",
+          "dork_count": 472
+        }
+      ]
+    },
+    {
+      "name": "cryptocurrency",
+      "dork_count": 636335,
+      "files": [
+        {
+          "path": "cryptocurrency/10k-btc-dorks.txt",
+          "dork_count": 10109
+        },
+        {
+          "path": "cryptocurrency/600K CRYPTO DORKS1.txt",
+          "dork_count": 148258
+        },
+        {
+          "path": "cryptocurrency/600K CRYPTO DORKS2.txt",
+          "dork_count": 148253
+        },
+        {
+          "path": "cryptocurrency/600K CRYPTO DORKS3.txt",
+          "dork_count": 148336
+        },
+        {
+          "path": "cryptocurrency/600K CRYPTO DORKS4.txt",
+          "dork_count": 148364
+        },
+        {
+          "path": "cryptocurrency/btc-paypal-dorks.txt",
+          "dork_count": 435
+        },
+        {
+          "path": "cryptocurrency/cryptodorks15k.txt",
+          "dork_count": 15037
+        },
+        {
+          "path": "cryptocurrency/cryptodorks2.txt",
+          "dork_count": 17543
+        }
+      ]
+    },
+    {
+      "name": "exploit-db",
+      "dork_count": 7791,
+      "files": [
+        {
+          "path": "exploit-db/ghdb/Advisories-and-Vulnerabilities.txt",
+          "dork_count": 2109
+        },
+        {
+          "path": "exploit-db/ghdb/dltme.txt",
+          "dork_count": 1
+        },
+        {
+          "path": "exploit-db/ghdb/Error-Messages.txt",
+          "dork_count": 122
+        },
+        {
+          "path": "exploit-db/ghdb/Files-Containing-Juicy-Info.txt",
+          "dork_count": 1727
+        },
+        {
+          "path": "exploit-db/ghdb/Files-Containing-Passwords.txt",
+          "dork_count": 399
+        },
+        {
+          "path": "exploit-db/ghdb/Files-Containing-Usernames.txt",
+          "dork_count": 47
+        },
+        {
+          "path": "exploit-db/ghdb/Footholds.txt",
+          "dork_count": 121
+        },
+        {
+          "path": "exploit-db/ghdb/Network-or-Vulnerability-Data.txt",
+          "dork_count": 108
+        },
+        {
+          "path": "exploit-db/ghdb/Pages-Containing-Login-Portals.txt",
+          "dork_count": 1534
+        },
+        {
+          "path": "exploit-db/ghdb/Sensitive-Directories.txt",
+          "dork_count": 448
+        },
+        {
+          "path": "exploit-db/ghdb/Sensitive-Online-Shopping-Info.txt",
+          "dork_count": 15
+        },
+        {
+          "path": "exploit-db/ghdb/Uncategorized.txt",
+          "dork_count": 1
+        },
+        {
+          "path": "exploit-db/ghdb/Various-Online-Devices.txt",
+          "dork_count": 740
+        },
+        {
+          "path": "exploit-db/ghdb/Vulnerable-Files.txt",
+          "dork_count": 86
+        },
+        {
+          "path": "exploit-db/ghdb/Vulnerable-Servers.txt",
+          "dork_count": 128
+        },
+        {
+          "path": "exploit-db/ghdb/Web-Server-Detection.txt",
+          "dork_count": 205
+        }
+      ]
+    },
+    {
+      "name": "firebase",
+      "dork_count": 3,
+      "files": [
+        {
+          "path": "firebase/firebase-dorks.txt",
+          "dork_count": 3
+        }
+      ]
+    },
+    {
+      "name": "gaming",
+      "dork_count": 25383,
+      "files": [
+        {
+          "path": "gaming/10k-gaming-dorks.txt",
+          "dork_count": 9991
+        },
+        {
+          "path": "gaming/7k-gamingdorks.txt",
+          "dork_count": 7000
+        },
+        {
+          "path": "gaming/fortnite.txt",
+          "dork_count": 2769
+        },
+        {
+          "path": "gaming/fortnite2.txt",
+          "dork_count": 5271
+        },
+        {
+          "path": "gaming/minecraft.txt",
+          "dork_count": 352
+        }
+      ]
+    },
+    {
+      "name": "github",
+      "dork_count": 153,
+      "files": [
+        {
+          "path": "github/github.txt",
+          "dork_count": 17
+        },
+        {
+          "path": "github/githubdorks.txt",
+          "dork_count": 136
+        }
+      ]
+    },
+    {
+      "name": "k8s",
+      "dork_count": 3,
+      "files": [
+        {
+          "path": "k8s/k8s-dorks.txt",
+          "dork_count": 3
+        }
+      ]
+    },
+    {
+      "name": "lfi",
+      "dork_count": 4086,
+      "files": [
+        {
+          "path": "lfi/lfi.txt",
+          "dork_count": 4086
+        }
+      ]
+    },
+    {
+      "name": "misc",
+      "dork_count": 112688,
+      "files": [
+        {
+          "path": "misc/app-specific/awstats.txt",
+          "dork_count": 15
+        },
+        {
+          "path": "misc/app-specific/git-files-dorks.txt",
+          "dork_count": 10
+        },
+        {
+          "path": "misc/app-specific/log-files-dorks.txt",
+          "dork_count": 17
+        },
+        {
+          "path": "misc/ecommerce-and-social/amazondorks.txt",
+          "dork_count": 10619
+        },
+        {
+          "path": "misc/ecommerce-and-social/discord-tokens-dorks.txt",
+          "dork_count": 7
+        },
+        {
+          "path": "misc/ecommerce-and-social/linkedindorks.txt",
+          "dork_count": 12
+        },
+        {
+          "path": "misc/ecommerce-and-social/webstore-dorks.txt",
+          "dork_count": 340
+        },
+        {
+          "path": "misc/infrastructure/ipdorks.txt",
+          "dork_count": 98971
+        },
+        {
+          "path": "misc/infrastructure/various-iot-devices-dorks.txt",
+          "dork_count": 716
+        },
+        {
+          "path": "misc/infrastructure/vuln-server-dorks.txt",
+          "dork_count": 111
+        },
+        {
+          "path": "misc/infrastructure/webserver-detection-dorks.txt",
+          "dork_count": 204
+        },
+        {
+          "path": "misc/sensitive-data/adminpanel-dorks.txt",
+          "dork_count": 393
+        },
+        {
+          "path": "misc/sensitive-data/hidden-files-dorks.txt",
+          "dork_count": 748
+        },
+        {
+          "path": "misc/sensitive-data/sensitive-dirs-dorks.txt",
+          "dork_count": 442
+        },
+        {
+          "path": "misc/sensitive-data/sensitive-files-dorks.txt",
+          "dork_count": 83
+        }
+      ]
+    },
+    {
+      "name": "movie",
+      "dork_count": 45869,
+      "files": [
+        {
+          "path": "movie/movie.txt",
+          "dork_count": 5
+        },
+        {
+          "path": "movie/netflixdorks.txt",
+          "dork_count": 45864
+        }
+      ]
+    },
+    {
+      "name": "onion",
+      "dork_count": 9,
+      "files": [
+        {
+          "path": "onion/onion.txt",
+          "dork_count": 9
+        }
+      ]
+    },
+    {
+      "name": "rfi",
+      "dork_count": 884,
+      "files": [
+        {
+          "path": "rfi/rfi.txt",
+          "dork_count": 884
+        }
+      ]
+    },
+    {
+      "name": "search-engines",
+      "dork_count": 24595,
+      "files": [
+        {
+          "path": "search-engines/DuckDuckGO/ddgo.txt",
+          "dork_count": 690
+        },
+        {
+          "path": "search-engines/Google/googlecryptodorks.txt",
+          "dork_count": 93
+        },
+        {
+          "path": "search-engines/Google/googledorks1.txt",
+          "dork_count": 13735
+        },
+        {
+          "path": "search-engines/Google/googledorks2.txt",
+          "dork_count": 10077
+        }
+      ]
+    },
+    {
+      "name": "shodan",
+      "dork_count": 584,
+      "files": [
+        {
+          "path": "shodan/shodan1.txt",
+          "dork_count": 188
+        },
+        {
+          "path": "shodan/shodan2.txt",
+          "dork_count": 228
+        },
+        {
+          "path": "shodan/shodanqueries.txt",
+          "dork_count": 168
+        }
+      ]
+    },
+    {
+      "name": "shopping",
+      "dork_count": 10571,
+      "files": [
+        {
+          "path": "shopping/10kshopping-dorks.txt",
+          "dork_count": 9983
+        },
+        {
+          "path": "shopping/shopping.txt",
+          "dork_count": 588
+        }
+      ]
+    },
+    {
+      "name": "sqli",
+      "dork_count": 25890,
+      "files": [
+        {
+          "path": "sqli/general/random-good-dorks.txt",
+          "dork_count": 3750
+        },
+        {
+          "path": "sqli/general/sqli1.txt",
+          "dork_count": 12596
+        },
+        {
+          "path": "sqli/general/sqli2.txt",
+          "dork_count": 401
+        },
+        {
+          "path": "sqli/general/sqli3.txt",
+          "dork_count": 4086
+        },
+        {
+          "path": "sqli/platforms/hosting.txt",
+          "dork_count": 3000
+        },
+        {
+          "path": "sqli/platforms/shopping.txt",
+          "dork_count": 1753
+        },
+        {
+          "path": "sqli/platforms/wordpress.txt",
+          "dork_count": 304
+        }
+      ]
+    },
+    {
+      "name": "virustotal",
+      "dork_count": 83,
+      "files": [
+        {
+          "path": "virustotal/vtd.txt",
+          "dork_count": 83
+        }
+      ]
+    },
+    {
+      "name": "xss",
+      "dork_count": 262,
+      "files": [
+        {
+          "path": "xss/xss.txt",
+          "dork_count": 262
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+name: DorkHub CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Test CLI
+        run: |
+          python dorkhub.py categories
+          python dorkhub.py search "aws" --limit 5
+
+      - name: Generate Manifest & Verify
+        run: |
+          python generate_index.py
+          git diff --exit-code index.json || (echo "index.json is outdated. Run python generate_index.py before committing." && exit 1)
