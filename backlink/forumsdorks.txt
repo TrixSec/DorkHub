@@ -1,0 +1,123 @@
+KEYWORDS ?powered by phpbb? inurl:/forum
+KEYWORDS ?powered by vbulletin? inurl:/forum
+KEYWORDS ?powered by smf? inurl:/forum
+KEYWORDS ?powered by phpbb? inurl:/community
+KEYWORDS ?powered by vbulletin? inurl:/community
+KEYWORDS ?powered by smf? inurl:/community
+Unclassified NewsBoard Footprints
+Code:
+"Powered by the Unclassified NewsBoard"
+intext:"Powered by the Unclassified NewsBoard" inurl:req=register
+Quicksilver Forums Footprints
+"Powered by Quicksilver Forums"
+SEO-Board Footprints
+"powered by SEO-Board"
+PunBB Footprints
+"powered by punbb"
+Phorum Footprints
+"powered by Phorum"
+"powered by phorum" inurl:register
+inurl:phorum inurl:register
+inurl:/phorum/register.php
+MesDiscussions Footprints
+"MesDiscussions"
+MiniBB Footprints
+"powered by minibb"
+MyBB Footprints
+"Powered By MyBB"
+IceBB Footprints
+"powered by icebb"
+Fruit Show Footprints
+"Powered by FruitShow"
+FluxBB Footprints
+"Powered by FluxBB"
+FUDForum Footprints
+"Powered by: FUDforum"
+Beehive Forum Footprints
+"Powered by Beehive"
+Advanced Electron Forum (AEF) Footprints
+"Powered by AEF"
+BBPress forum Footprints
+"Powered by bbPress"
+IP Bulletin Board Footprints
+"Powered By IP.Board"
+Fireboard Forum Footprints
+"powered by Fireboard"
+Snitz Forums Footprints
+"powered by snitz forums"
+intext:"snitz forums" inurl:/forum/register.asp
+intext:"snitz forums 2000" inurl:/forum/register.asp
+intext:"snitz forums 2011" inurl:/forum/register.asp
+intext:"snitz forums 2012" inurl:/forum/register.asp
+Invision Power Board Footprints
+"Powered by Invision Power Board"
+"Powered by Invision Power Board(U) v1.3 Final"
+intext:"Powered by Invision Power Board" inurl:action=register
+intext:"Powered by Invision Power Board" inurl:register
+intext:"Powered by Invision Power Board" inurl:/users/register
+"Powered By IP.Board 2.3.3"
+"Powered By IP.Board 2.3.5"
+"Powered By IP.Board 2.3.6"
+vBulletin Forum Footprints
+"In order to proceed, you must agree with the following rules"
+"Powered by vBulletin"
+"Powered by vBulletin * 3.0.0"
+"Powered by vBulletin * 3.0.1"
+"Powered by vBulletin * 3.0.4"
+"Powered by vBulletin * 3.0.5"
+"Powered by vBulletin * 3.0.6"
+"Powered by vBulletin * 3.0.7"
+inurl:newreply.php
+"Powered by vBulletin" inurl:register.php
+Simple Machines Forum (SMF) Footprints
+"powered by SMF"
+"powered by Simple Machines"
+inurl:/index.php?action=register
+"powered by Simple Machines" inurl:/index.php?action=register
+Article Beach FootPrints
+"inurl:index.php?page=submitarticle"
+"Articles with any spelling or grammar errors will be deleted"
+inurl:index.php?pagedb=Submission Guildlines
+"Here are the most popular 100 articles on"
+"upload your articles and keep updated about new articles."
+Article Friendly Ultimate FootPrints
+"Powered By: Article Friendly Ultimate"
+"This page took Micro Seconds to load."
+"Powered By: Article Friendly Ultimate" "Newest Authors"
+"Powered By: Article Friendly Ultimate" "Our New Articles"
+"Powered By: Article Friendly Ultimate" "inurl:/submitarticle.php"
+"Powered By: Article Friendly Ultimate" "inurl:/signup.php"
+Press Release Script FootPrints
+"Powered by Press Release Script" "Sign-Up"
+"Powered by Press Release Script" "Most Rated Press Releases"
+"Powered by Press Release Script" "Expert Authors"
+"Powered by Press Release Script" "Recently Approved"
+"Powered by Press Release Script" "Hot Press Releases"
+"Powered by Press Release Script" "Editors Picks"
+vBulletin Blog FootPrints
+"Powered by vBulletin" inurl:/blogs/
+YAD FootPrints
+"Recently Approved Articles" "Free Article Submission"
+"Recently Approved Articles" + "Sign-Up"
+"Recently Approved Articles"
+"Expert Authors"
+"Most Popular Articles"
+"Hot Articles"
+"Editors Picks"
+Article Friendly FootPrints
+"Powered By: Article Friendly" "total articles"
+"Powered By: Article Friendly" "Keywords"
+Moodle FootPrints
+inurl:"/user/profile.php?id=" moodle
+moodle "public profile"
+inurl:"/blog/index.php?postid=" moodle
+PublicBookmark FootPrints
+"melden Sie sich zuerst kostenlos an!"
+UCenter FootPrints
+"Powered by UCenter Home"
+DedeEIMS FootPrints
+"powered by DedeEIMS" inurl:guestbook.php
+Vanilla FootPrints
+"Powered by Vanilla" inurl:/profile/
+"Powered by Vanilla" inurl:/index.php?p=/profile/
+"Powered by Vanilla" inurl:/entry/register

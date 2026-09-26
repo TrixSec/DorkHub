@@ -9,7 +9,11 @@ DorkHub is the security researcher's companion. It’s a comprehensive repositor
 ---
 
 ![DorkHub Logo](https://github.com/TrixSec/DorkHub/blob/main/logo/dorkhub-logo.png?raw=true)  
-![Repo View Counter](https://profile-counter.glitch.me/DorkHub/count.svg)
+![Repo View Counter](https://komarev.com/ghpvc/?username=DorkHub)
+
+![Categories](https://img.shields.io/badge/Categories-20%2B-blue)
+![Quality](https://img.shields.io/badge/Quality_Over_Quantity-Curated-brightgreen)
+![GitHub Stars](https://img.shields.io/github/stars/TrixSec/DorkHub?style=social)
 
 ## Overview
 
@@ -19,74 +23,74 @@ DorkHub is the security researcher's companion. It’s a comprehensive repositor
 
 DorkHub is organized into the following categories:
 
-### Backlink Dorks
+### Backlink
 Dorks for uncovering backlink information and SEO insights.
 
-### Bug Bounty Dorks
+### Bug Bounty
 Specialized dorks for bug bounty hunters to discover vulnerabilities and misconfigurations.
 
-### Carding Dorks
+### Carding
 Dorks that assist in identifying sites related to carding and fraud.
 
-### CCTV Dorks
+### CCTV
 Dorks for finding exposed and misconfigured CCTV cameras.
 
-### Censys Dorks
+### Censys
 Queries tailored for Censys search engine to find exposed devices and services.
 
-### Cloud Instance Dorks
+### Cloud
 Dorks aimed at uncovering exposed cloud instances and configurations.
 
-### CMS Dorks
+### CMS
 Content Management System (CMS) specific dorks for platforms like WordPress, Joomla, and Magento, etc.
 
-### Cryptocurrency Dorks
+### Cryptocurrency
 Dorks focused on finding exposed cryptocurrency wallets, transactions, and related sensitive data.
 
 ### Exploit DB
 All Dorks From Exploit Database (ghdb) Are Categorised Here 
 
-### Gaming Dorks
+### Gaming
 Dorks related to gaming platforms, servers, and forums.
 
-### GitHub Dorks
+### GitHub
 Dorks for finding sensitive information exposed on GitHub repositories.
 
-### LFI Dorks
+### LFI
 Local File Inclusion (LFI) specific dorks to uncover vulnerable endpoints.
 
-### Misc Dorks
+### Misc
 A collection of miscellaneous dorks that don’t fit into other categories but are valuable for various purposes.
 
-### Movie Dorks
+### Movie
 Dorks for finding exposed movie-related data and streaming platforms.
 
-### Onion Dorks
+### Onion
 Dorks for uncovering content and services on the dark web using Tor.
 
-### Search Engines Dorks
+### Search Engines
 Dorks for uncovering sensitive data across various search engines.
 
-### Shodan Dorks
+### Shodan
 Dorks tailored for the Shodan search engine to find exposed devices and services.
 
-### Shopping Dorks
+### Shopping
 Dorks for finding vulnerabilities and sensitive data in online shopping platforms.
 
-### Social Media Dorks
+### Social Media
 Dorks Related To Social Media Sites Like:
 - Instagram 
 - Facebook
 - Twitter (X)
 - Linkedin
 
-### SQLI Dorks
-SQL Injection (SQLI) specific dorks for identifying vulnerable endpoints.
+### SQLi
+SQL Injection (SQLi) specific dorks for identifying vulnerable endpoints.
 
-### Virus Total Dorks
+### VirusTotal
 Dorks for discovering exposed information on VirusTotal.
 
-### XSS Dorks
+### XSS
 Cross-Site Scripting (XSS) specific dorks to uncover vulnerable endpoints.
 
 ## Usage

@@ -1,0 +1,884 @@
+/_functions.php?prefix=
+/cpcommerce/_functions.php?prefix=
+/modules/coppermine/themes/default/theme.php?THEME_DIR=
+/modules/agendax/addevent.inc.php?agendax_path=
+/ashnews.php?pathtoashnews=
+/eblog/blog.inc.php?xoopsConfig[xoops_url]=
+/pm/lib.inc.php?pm_path=
+/b2-tools/gm-2-b2.php?b2inc=
+/modules/mod_mainmenu.php?mosConfig_absolute_path=
+/includes/include_once.php?include_file=
+/e107/e107_handlers/secure_img_render.php?p=
+/shoutbox/expanded.php?conf=
+/main.php?x=
+/myPHPCalendar/admin.php?cal_dir=
+/index.php/main.php?x=
+/index.php?include=
+/index.php?x=
+/index.php?open=
+/index.php?visualizar=
+/template.php?pagina=
+/index.php?pagina=
+/index.php?inc=
+/includes/include_onde.php?include_file=
+/index.php?page=
+/index.php?pg=
+/index.php?show=
+/index.php?cat=
+/index.php?file=
+/db.php?path_local=
+/index.php?site=
+/htmltonuke.php?filnavn=
+/livehelp/inc/pipe.php?HCL_path=
+/hcl/inc/pipe.php?HCL_path=
+/inc/pipe.php?HCL_path=
+/support/faq/inc/pipe.php?HCL_path=
+/help/faq/inc/pipe.php?HCL_path=
+/helpcenter/inc/pipe.php?HCL_path=
+/live-support/inc/pipe.php?HCL_path=
+/gnu3/index.php?doc=
+/gnu/index.php?doc=
+/phpgwapi/setup/tables_update.inc.php?appdir=
+/forum/install.php?phpbb_root_dir=
+/includes/calendar.php?phpc_root_path=
+/includes/setup.php?phpc_root_path=
+/inc/authform.inc.php?path_pre=
+/include/authform.inc.php?path_pre=
+index.php?nic=
+index.php?sec=
+index.php?content=
+index.php?link=
+index.php?filename=
+index.php?dir=
+index.php?document=
+index.php?view=
+.php?sel=
+.php?session=&content=
+.php?locate=
+.php?place=
+.php?layout=
+.php?go=
+.php?catch=
+.php?mode=
+.php?name=
+.php?loc=
+.php?f=
+.php?inf=
+.php?pg=
+.php?load=
+.php?naam=
+all/index.php?page= site:.ru
+all/index.php?file= site:.ru
+/components/com_flyspray/
+startdown.php?file=
+/administrator/components/
+com_admin/
+admin.admin.html.php?
+mosConfig_absolute_path= /components/com_simpleboard/
+file_upload.php?sbp=
+/components/com_hashcash/
+server.php?mosConfig_absolute_
+path=
+/components/com_htmlarea3_ xtd-c/popups/ImageManager/
+config.inc.php?mosConfig_
+absolute_path=
+/components/com_sitemap/
+sitemap.xml.php?mosConfig_
+absolute_path= /components/com_performs/
+performs.php?mosConfig_
+/components/com_forum/
+download.php?phpbb_root_path=
+/components/com_pccookbook/ pccookbook.php?mosConfig_
+/components/com_extcalendar/
+extcalendar.php?mosConfig_
+/components/minibb/index.php? absolute_path=
+/components/com_smf/smf.php?
+mosConfig_absolute_path=
+/modules/mod_calendar.php?
+/components/com_pollxt/ conf.pollxt.php?mosConfig_
+/components/com_loudmounth/
+includes/abbc/abbc.class.php?
+/components/com_videodb/core/ videodb.class.xml.php?
+/components/com_pcchess/
+include.pcchess.php?mosConfig_
+/administrator/components/ com_multibanners/
+extadminmenus.class.php?
+com_mgm/help.mgm.php?
+mosConfig_absolute_path= /components/com_mambatstaff/
+mambatstaff.php?mosConfig_
+/components/com_
+securityimages/configinsert.php?
+mosConfig_absolute_path= /components/com_
+securityimages/lang.php?
+/components/com_artlinks/
+artlinks.dispnew.php?mosConfig_
+absolute_path= /components/com_galleria/
+galleria.html.php?mosConfig_
+/akocomments.php?mosConfig_
+/administrator/components/ com_cropimage/
+admin.cropcanvas.php?
+cropimagedir=
+/cropcanvas.php?cropimagedir=
+com_kochsuite/ config.kochsuite.php?mosConfig_
+com_comprofiler/
+plugin.class.php?mosConfig_
+absolute_path= /components/com_zoom/
+classes/fs_unix.php?mosConfig_
+/components/com_zoom/
+includes/database.php?
+mosConfig_absolute_path= /administrator/components/
+com_serverstat/
+install.serverstat.php?mosConfig_
+/components/com_fm/
+fm.install.php?lm_absolute_path= /administrator/components/
+com_mambelfish/
+mambelfish.class.php?
+/components/com_lmo/lmo.php?
+com_linkdirectory/
+toolbar.linkdirectory.html.php?
+mosConfig_absolute_ path=
+/components/com_mtree/
+Savant2/Savant2_Plugin_ textarea.php?mosConfig_
+absolute_pat h=
+com_jim/install.jim.php?
+/administrator/components/ com_webring/
+admin.webring.docs.php?
+component_dir=
+com_remository/
+admin.remository.php? mosConfig_absolute_path=
+com_babackup/classes/Tar.php?
+com_lurm_constructor/ admin.lurm_constructor.php?lm_
+/components/com_mambowiki/
+Mam***ogin.php?IP=
+com_a6mambocredits/ admin.a6mambocredits.php?
+mosConfig_live_site=
+com_phpshop/
+toolbar.phpshop.html.php?
+mosConfig_absolute_path= /components/com_cpg/cpg.php?
+/components/com_moodle/
+moodle.php?mosConfig_
+/components/com_extended_ registration/registration_
+detailed.inc.php?mosConfig_
+absolute_p ath=
+/components/com_mospray/
+scripts/admin.php?basedir=
+/administrator/components/ com_bayesiannaivefilter/
+lang.php?mosConfig_absolute_
+com_uhp/uhp_config.php?
+com_peoplebook/
+param.peoplebook.php?
+com_mmp/help.mmp.php? mosConfig_absolute_path=
+/components/com_reporter/
+processor/reporter.sql.php?
+/components/com_madeira/
+img.php?url= /components/com_jd-wiki/lib/
+tpl/default/main.php?
+/components/com_bsq_sitestats/
+external/rssfeed.php?baseDir=
+/com_bsq_sitestats/external/ rssfeed.php?baseDir=
+/components/com_swmenupro/
+ImageManager/Classes/
+ImageManager.php?mosConfig_
+/administrator/components/ com_swmenupro/
+/components/com_nfn_
+addressbook/ nfnaddressbook.php?mosConfig_
+com_nfn_addressbook/
+nfnaddressbook.php?mosConfig_
+absolute_path= /components/com_joomlaboard/
+/components/com_rwcards/
+rwcards.advancedate.php?
+/components/com_thopper/inc/ contact_type.php?mosConfig_
+/components/com_thopper/inc/
+itemstatus_type.php?mosConfig_
+/components/com_thopper/inc/ projectstatus_type.php?
+request_type.php?mosConfig_
+/components/com_thopper/inc/ responses_type.php?mosConfig_
+timelog_type.php?mosConfig_
+/components/com_thopper/inc/ urgency_type.php?mosConfig_
+classes/iptc/EXIF_
+Makernote.php?mosConfig_
+classes/iptc/EXIF.php?
+/modules/mod_weather.php?
+/components/calendar/com_ calendar.php?absolute_path=
+/modules/calendar/mod_
+calendar.php?absolute_path=
+/components/com_calendar.php?
+/modules/mod_calendar.php? absolute_path=
+/components/com_mosmedia/
+media.tab.php?mosConfig_
+media.divs.php?mosConfig_ absolute_path=
+com_joomlaradiov5/
+admin.joomlaradiov5.php?
+/administrator/components/ com_joomlaflashfun/
+admin.joomlaflashfun.php?
+com_joom12pic/
+admin.joom12pic.php? mosConfig_live_site=
+/components/com_slideshow/
+admin.slideshow1.php?
+com_panoramic/ admin.panoramic.php?
+com_wmtgallery/
+admin.wmtgallery.php?
+mosConfig_live_site= /administrator/components/
+com_wmtportfolio/
+admin.wmtportfolio.php?
+com_mosmedia/includes/ credits.html.php?mosConfig_
+com_mosmedia/includes/
+info.html.php?mosConfig_
+absolute_path= /administrator/components/
+media.divs.php?mosConfig_
+com_mosmedia/includes/ media.divs.js.php?mosConfig_
+purchase.html.php?mosConfig_
+support.html.php?mosConfig_
+/wp-content/plugins/myflash/myflash-button.php?wpPATH=
+/modules/4nAlbum/public/displayCategory.php?basepath=
+/modules/coppermine/themes/coppercop/theme.php?THEME_DIR=
+/modules/coppermine/themes/maze/theme.php?THEME_DIR=
+/modules/coppermine/include/init.inc.php?CPG_M_DIR=
+/components/com_extcalendar/admin_events.php?CONFIG_EXT=
+/components/com_loudmounth/includes/abbc/abbc.class.php?mosConfig_absolute_path=
+/components/com_smf/smf.php?mosConfig_absolute_path=
+/components/com_videodb/core/videodb.class.xml.php?mosConfig_absolute_path=
+/components/com_simpleboard/image_upload.php?sbp=
+/components/com_simpleboard/file_upload.php?sbp=
+/components/com_hashcash/server.php?mosConfig_absolute_path=
+/components/com_htmlarea3_xtd-c/popups/ImageManager/config.inc.php?mosConfig_absolute_path=
+/components/com_sitemap/sitemap.xml.php?mosConfig_absolute_path=
+/components/com_forum/download.php?phpbb_root_path=
+/components/com_pccookbook/pccookbook.php?mosConfig_absolute_path=
+/components/com_extcalendar/extcalendar.php?mosConfig_absolute_path=
+/components/minibb/index.php?absolute_path=
+/components/com_pollxt/conf.pollxt.php?mosConfig_absolute_path=
+/components/com_pcchess/include.pcchess.php?mosConfig_absolute_path=
+/components/com_mambatstaff/mambatstaff.php?mosConfig_absolute_path=
+/components/com_securityimages/configinsert.php?mosConfig_absolute_path=
+/components/com_securityimages/lang.php?mosConfig_absolute_path=
+/components/com_artlinks/artlinks.dispnew.php?mosConfig_absolute_path=
+/components/com_galleria/galleria.html.php?mosConfig_absolute_path=
+/administrator/components/com_multibanners/extadminmenus.class.php?mosConfig_absolute_path=
+/modules/My_eGallery/public/inc/?HCL_path=
+/modules/My_eGallery/public/displayCategory.php?basepath=
+/modules/My_eGallery/index.php?basepath=
+/modules/Forums/admin/index.php?phpbb_root_path=
+/modules/Forums/admin/admin_avatar.php?phpbb_root_path=
+/modules/Forums/admin/admin_styles.php?phpbb_root_path=
+/modules/Forums/admin/admin_board.php?phpEx=
+/modules/xoopsgallery/upgrade_album.php?GALLERY_BASEDIR=
+/modules/xgallery/upgrade_album.php?GALLERY_BASEDIR=
+/modules/newbb_plus/class/forumpollrenderer.php?bbPath=
+/phpBB/admin/admin_styles.php?mode=
+/forum/auth/auth.php?phpbb_root_path=
+/forum/auth/auth_phpbb/phpbb_root_path=
+/cutenews/comments.php?cutepath=
+/library/lib.php?root=
+/impex/ImpExData.php?systempath=
+/coppermine/thumbnails.php?lang=
+/gallery/thumbnails.php?lang=
+/aWebNews/visview.php?path_to_news=
+/4images/index.php?template=
+/galeri/index.php?template=
+/gallery/index.php?template=
+/auth/auth.php?phpbb_root_path=
+/auth/auth_phpbb/phpbb_root_path=
+/forums/toplist.php?phpbb_root_path=
+/forum/toplist.php?phpbb_root_path=
+/admin/config_settings.tpl.php?include_path=
+/include/common.php?include_path=
+/event/index.php?page=
+/forum/index.php?includeFooter=
+/forums/index.php?includeFooter=
+/forum/bb_admin.php?includeFooter=
+/forums/bb_admin.php?includeFooter=
+/language/lang_english/lang_activity.php?phpbb_root_path=
+/forum/language/lang_english/lang_activity.php?phpbb_root_path=
+/blend_data/blend_common.php?phpbb_root_path=
+/master.php?root_path=
+/includes/kb_constants.php?module_root_path=
+/forum/includes/kb_constants.php?module_root_path=
+/forums/includes/kb_constants.php?module_root_path=
+/classes/adodbt/sql.php?classes_dir=
+/modules/mod_calendar.php?absolute_path=
+/agenda.php3?rootagenda=
+/agenda2.php3?rootagenda=
+/sources/lostpw.php?CONFIG[path]=
+/topsites/sources/lostpw.php?CONFIG[path]=
+/toplist/sources/lostpw.php?CONFIG[path]=
+/sources/join.php?CONFIG[path]=
+/topsites/sources/join.php?CONFIG[path]=
+/toplist/sources/join.php?CONFIG[path]=
+/topsite/sources/join.php?CONFIG[path]=
+/public_includes/pub_popup/popup_finduser.php?vsDragonRootPath=
+/extras/poll/poll.php?file_newsportal=
+/calogic/reconfig.php?GLOBALS[CLPath]=
+/eshow.php?Config_rootdir=
+/auction/auction_common.php?phpbb_root_path=
+/calendar/index.php?inc_dir=
+/modules/TotalCalendar/index.php?inc_dir=
+/modules/calendar/index.php?inc_dir=
+/calendar/embed/day.php?path=
+/ACalendar/embed/day.php?path=
+/calendar/add_event.php?inc_dir=
+/claroline/auth/extauth/drivers/ldap.inc.php?clarolineRepositorySys=
+/claroline/auth/ldap/authldap.php?includePath=
+/docebo/modules/credits/help.php?lang=
+/modules/credits/help.php?lang=
+/includes/pafiledb_constants.php?module_root_path=
+/phpBB/includes/pafiledb_constants.php?module_root_path=
+/pafiledb/includes/pafiledb_constants.php?module_root_path=
+/apc-aa/cron.php3?GLOBALS[AA_INC_PATH]=
+/apc-aa/cached.php3?GLOBALS[AA_INC_PATH]=
+/infusions/last_seen_users_panel/last_seen_users_panel.php?settings[locale]=
+/phpdig/includes/config.php?relative_script_path=
+/includes/phpdig/includes/config.php?relative_script_path=
+/includes/dbal.php?eqdkp_root_path=
+/eqdkp/includes/dbal.php?eqdkp_root_path=
+/dkp/includes/dbal.php?eqdkp_root_path=
+/path/include/SQuery/gameSpy2.php?libpath=
+/include/global.php?GLOBALS[includeBit]=
+/topsites/config.php?returnpath=
+/manager/frontinc/prepend.php?_PX_config[manager_path]=
+/ubbthreads/addpost_newpoll.php?addpoll=thispath=
+/forum/addpost_newpoll.php?thispath=
+/forums/addpost_newpoll.php?thispath=
+/ubbthreads/ubbt.inc.php?thispath=
+/forums/ubbt.inc.php?thispath=
+/forum/ubbt.inc.php?thispath=
+/forum/admin/addentry.php?phpbb_root_path=
+/admin/addentry.php?phpbb_root_path=
+/includes/orderSuccess.inc.php?glob[rootDir]=
+/stats.php?dir[func]=dir[base]=
+/ladder/stats.php?dir[base]=
+/ladders/stats.php?dir[base]=
+/sphider/admin/configset.php?settings_dir=
+/admin/configset.php?settings_dir=
+/vwar/admin/admin.php?vwar_root=
+/modules/vwar/admin/admin.php?vwar_root=
+/modules/vWar_Account/includes/get_header.php?vwar_root=
+/modules/vWar_Account/includes/functions_common.php?vwar_root2=
+/forum/impex/ImpExData.php?systempath=
+/forums/impex/ImpExData.php?systempath=
+/cgi-bin//classes/adodbt/sql.php?classes_dir=
+/cgi-bin/install/index.php?G_PATH=
+/cgi-bin/include/print_category.php?dir=
+/includes/class_template.php?quezza_root_path=
+/bazar/classified_right.php?language_dir=
+/classified_right.php?language_dir=
+/phpBazar/classified_right.php?language_dir=
+/modules/center/admin/accounts/process.php?module_path]=
+/chat/messagesL.php3?cmd=
+/phpMyChat/chat/messagesL.php3?cmd=
+/bbs/include/write.php?dir=
+/research/boards/encapsbb-0.3.2_fixed/index_header.php?root=
+/Farsi1/index.php?archive=
+/index.php?archive=
+/show_archives.php?template=
+/forum/include/common.php?pun_root=
+/pmwiki wiki/pmwiki-2.1.beta20/pmwiki.php?GLOBALS[FarmD]=
+/vuln.php?=
+/cgi-bin//include/write.php?dir=
+/admin/common.inc.php?basepath=
+/pm/lib.inc.php?sfx=
+/artmedic-kleinanzeigen-path/index.php?id=
+/osticket/include/main.php?include_dir=
+/include/main.php?config[search_disp]=include_dir=
+/phpcoin/config.php?_CCFG[_PKG_PATH_DBSE]=
+/quick_reply.php?phpbb_root_path=
+/zboard/include/write.php?dir=
+/PATH/admin/plog-admin-functions.php?configbasedir=
+/path_to_phpgreetz/content.php?content=
+/path_to_qnews/q-news.php?id=
+/_conf/core/common-tpl-vars.php?confdir=
+/votebox.php?VoteBoxPath=
+/al_initialize.php?alpath=
+/include/db.php?GLOBALS[rootdp]=
+/modules/news/archivednews.php?GLOBALS[language_home]=
+/protection.php?siteurl=
+/modules/AllMyGuests/signin.php?_AMGconfig[cfg_serverpath]=
+/index2.php?includes_dir=
+/classes.php?LOCAL_PATH=
+/extensions/moblog/moblog_lib.php?basedir=
+/modules/newbb_plus/class/forumpollrenderer.php?bbPath[path]=
+/phpWebLog/include/init.inc.php?G_PATH=
+/admin/objects.inc.php4?Server=
+/trg_news30/trgnews/install/article.php?dir=
+/block.php?Include=
+/arpuivo.php?data=
+/path_to_gallery/setup/index.php?GALLERY_BASEDIR=
+/include/help.php?base=
+/index.php?[Home]=
+/path_to_script/block.php?Include=
+/examples/phonebook.php?page=
+/PHPNews/auth.php?path=
+/include/print_category.php?dir=
+/skin/zero_vote/login.php?dir=
+/skin/zero_vote/setup.php?dir=
+/skin/zero_vote/ask_password.php?dir=
+/gui/include/sql.php?include_path=
+/webmail/lib/emailreader_execute_on_each_page.inc.php?emailreader_ini=
+/email.php?login=cer_skin=
+/PhotoGal/ops/gals.php?news_file=
+/index.php?custom=
+/loginout.php?cutepath=
+/oneadmin/config.php?path[docroot]=
+/xcomic/initialize.php?xcomicRootPath=
+/skin/zero_vote/error.php? dir=
+/admin_modules/admin_module_captions.inc.php?config[path_src_include]=
+/admin_modules/admin_module_rotimage.inc.php?config[path_src_include]=
+/admin_modules/admin_module_delcomments.inc.php?config[path_src_include]=
+/admin_modules/admin_module_edit.inc.php?config[path_src_include]=
+/admin_modules/admin_module_delimage.inc.php?config[path_src_include]=
+/admin_modules/admin_module_deldir.inc.php?config[path_src_include]=
+/src/index_overview.inc.php?config[path_src_include]=
+/src/index_leftnavbar.inc.php?config[path_src_include]=
+/src/index_image.inc.php?config[path_src_include]=
+/src/image-gd.class.php?config[path_src_include]=
+/src/image.class.php?config[path_src_include]=
+/src/album.class.php?config[path_src_include]=
+/src/show_random.inc.php?config[path_src_include]=
+/src/main.inc.php?config[path_src_include]=
+/src/index_passwd-admin.inc.php?config[path_admin_include]=
+/yappa-ng/src/index_overview.inc.php?config[path_src_include]=
+/src/image.class.php?config[image_module]=
+/includes/db_adodb.php?baseDir=
+/includes/db_connect.php?baseDir=
+/includes/session.php?baseDir=
+/modules/projects/gantt.php?dPconfig[root_dir]=
+/modules/projects/gantt2.php?dPconfig[root_dir]=
+/modules/projects/vw_files.php?dPconfig[root_dir]=
+/modules/admin/vw_usr_roles.php?baseDir=
+/modules/public/calendar.php?baseDir=
+/modules/public/date_format.php?baseDir=
+/modules/tasks/gantt.php?baseDir=
+/mantis/login_page.php?g_meta_include_file=
+/phpgedview/help_text_vars.php?PGV_BASE_DIRECTORY=
+/dotproject/modules/files/index_table.php?root_dir=
+/nukebrowser.php?filnavn=
+/bug_sponsorship_list_view_inc.php?t_core_path=
+/aMember/plugins/db/mysql/mysql.inc.php?config=
+/admin/lang.php?CMS_ADMIN_PAGE=
+/include/write.php?dir=
+/becommunity/community/index.php?pageurl=
+/CubeCart/includes/orderSuccess.inc.php?&glob[rootDir]=
+/inc/formmail.inc.php?script_root=
+/include/init.inc.php?G_PATH=
+/backend/addons/links/index.php?PATH=
+/modules/newbb_plus/class/class.forumposts.php?bbPath[path]=
+/mail_autocheck.php?pm_path=
+/include/new-visitor.inc.php?lvc_include_dir=
+/path_of_cpcommerce/_functions.php?prefix=
+/community/modules/agendax/addevent.inc.php?agendax_path=
+/library/editor/editor.php?root=
+/zentrack/index.php?configFile=
+/pivot/modules/module_db.php?pivot_path=
+/p_uppc_francais/pages_php/p_aidcon_conseils/index.php?FM=
+/phpGedView/individual.php?PGV_BASE_DIRECTORY=
+/index.php?kietu[url_hit]=
+/phorum/plugin/replace/plugin.php?PHORUM[settings_dir]=
+/Sources/Packages.php?sourcedir=
+/yabbse/Sources/Packages.php?sourcedir=
+/modules/PNphpBB2/includes/functions_admin.php?phpbb_root_path=
+/cgi-bin//gadgets/Blog/BlogModel.php?path=
+/cgi-bin//admin.php?cal_dir=
+/gallery/captionator.php?GALLERY_BASEDIR=
+/cgi-bin/main.php?x=
+/Blog/BlogModel.php?path=
+/admin.php?cal_dir=
+/expanded.php?conf=
+/mwchat/libs/start_lobby.php?CONFIG[MWCHAT_Libs]=
+/pollvote/pollvote.php?pollname=
+/displayCategory.php?basepath=
+/phpBB2/admin/admin_cash.php?phpbb_root_path=
+/modules/foro/includes/functions_admin.php?phpbb_root_path=
+/modules/Forums/admin/admin_forums.php?phpEx=
+/modules/Forums/admin/admin_disallow.php?phpEx=
+/modules/Forums/admin/admin_smilies.php?phpEx=
+/modules/Forums/admin/admin_users.php?phpEx=
+/modules/Forums/admin/admin_mass_email.php?phpEx=
+/modules/Forums/admin/admin_forum_prune.php?phpEx=
+/mt-comments.cgi?id=
+/webcalendar/tools/send_reminders.php?includedir=
+/cmd/product_info.php/products_id/1622/shop_content.php?coID=
+/addevent.inc.php?agendax_path=
+/step_one.php?server_inc=
+/upgrade_album.php?GALLERY_BASEDIR=
+/search.php?cutepath=
+/modules.php?name=
+/wagora/extras//quicklist.php?site=
+/vCard/admin/define.inc.php?match=
+/forum/ubbthreads.php?Cat=
+/admin/includes/classes/spaw/spaw_control.class.php?spaw_root=
+/secure.php?cfgProgDir=
+/modules/My_eGallery/public//inc/?HCL_path=
+/modules/My_eGallery/public/imagen.php?basepath=
+/adlayer.php?layerstyle=
+/Forums/bb_smilies.php?name=
+/modules/Forums/bb_smilies.php?name=
+/gadgets/Blog/BlogModel.php?path=
+/learnlinc/clmcpreload.php?CLPATH=
+/modernbill/samples/news.php?DIR=
+/religions/faq.php?page=
+/forum/viewtopic.php?t=
+/announcements.php?includePath=
+/inc/header.php/step_one.php?server_inc=
+/phpatm/index.php?include_location=
+/gb/form.inc.php3?lang=
+/shannen/index.php?x=
+/family/phpgedview/index.php?PGV_BASE_DIRECTORY=
+/main.php?left=
+/forum/misc.php?action=
+/nucleus/libs/globalfunctions.php?DIR_LIBS=
+/show_archives.php?cutepath=
+/gallery.php=
+/magicforum/misc.php?action=
+/forum/admin/actions/del.php?include_path=
+/local/investing_industrialeastate1.php?a=
+/modules/coppermine/themes/default/theme.php?THEME_DIR
+/Popper/index.php?childwindow.inc.php?form=
+/class.mysql.php?path_to_bt_dir=
+/include/footer.inc.php?_AMLconfig[cfg_serverpath]=
+/eyeos/desktop.php?baccio=
+/modules/module_db.php?pivot_path=
+/catalog/includes/include_once.php?include_file=
+/cgi-bin/calendar.pl?fromTemplate=
+/live/inc/pipe.php?HCL_path=
+/zb41/include/write.php?dir=
+/cgi-bin/awstats.pl?logfile=
+/presse/stampa.php3?azione=
+/inc/step_one_tables.php?server_inc=
+/phpprojekt/lib/authform.inc.php?path_pre=
+/captionator.php?GALLERY_BASEDIR=
+/_head.php?_zb_path=.example.com
+/achievo/atk/javascript/class.atkdateattribute.js.php?config_atkroot=
+/gallery/captionator.php?GALLERY_BASEDIR=.example.com
+/globals.php3?LangCookie=.example.com
+/include/msql.php?inc_dir=
+/include/mssql7.php?inc_dir=
+/include/mysql.php?inc_dir=
+/include/oci8.php?inc_dir=
+/include/postgres.php?inc_dir=
+/include/postgres65.php?inc_dir=
+/install.php?phpbb_root_dir=
+/mantis/login_page.php?g_meta_inc_dir=
+/phorum/admin/actions/del.php?include_path=
+/pollensondage.inc.php?app_path=
+/user/agora_user.php?inc_dir=
+/user/ldap_example.php?inc_dir=
+/userlist.php?ME=.example.com
+/ashnews.php?pathtoashnews=cd /tmp;wget
+/modules.php?name=jokeid=
+/web_statistics/modules/coppermine/themes/default/theme.php?THEME_DIR=
+/web_statistics//tools/send_reminders.php?includedir=
+/web_statistics//include/write.php?dir=
+/web_statistics//modules/My_eGallery/public/displayCategory.php?basepath=
+/web_statistics//calendar/tools/send_reminders.php?includedir=
+/web_statistics//skin/zero_vote/error.php?dir=
+/web_statistics//coppercop/theme.php?THEME_DIR=
+/includes/header.php?systempath=
+/Gallery/displayCategory.php?basepath=
+/index.inc.php?PATH_Includes=
+/nphp/nphpd.php?nphp_config[LangFile]=
+/ashheadlines.php?pathtoashnews=
+/demo/includes/init.php?user_inc=
+/jaf/index.php?show=
+/inc/shows.inc.php?cutepath=
+/poll/admin/common.inc.php?base_path=
+/sources/post.php?fil_config=
+/bb_lib/checkdb.inc.php?libpach=
+/include/livre_include.php?chem_absolu=
+/derniers_commentaires.php?rep=
+/allmylinks/include/footer.inc.php?_AMLconfig[cfg_serverpath]=
+/allmylinks/include/info.inc.php?_AMVconfig[cfg_serverpath]=
+/agendax/addevent.inc.php?agendax_path=
+/GradeMap/index.php?page=
+/phpopenchat/contrib/yabbse/poc.php?sourcedir=
+/calendar/calendar.php?serverPath=
+/calendar/functions/popup.php?serverPath=
+/calendar/events/header.inc.php?serverPath=
+/calendar/events/datePicker.php?serverPath=
+/calendar/setup/setupSQL.php?serverPath=
+/calendar/setup/header.inc.php?serverPath=
+/install/index.php?G_PATH=
+/support/mailling/maillist/inc/initdb.php?absolute_path=
+/coppercop/theme.php?THEME_DIR=
+/dotproject/modules/projects/addedit.php?root_dir=
+/dotproject/modules/projects/view.php?root_dir=
+/dotproject/modules/projects/vw_files.php?root_dir=
+/dotproject/modules/tasks/addedit.php?root_dir=
+/dotproject/modules/tasks/viewgantt.php?root_dir=
+/phpshop/index.php?base_dir=
+/contacts.php?cal_dir=
+/convert-date.php?cal_dir=
+/album_portal.php?phpbb_root_path=
+/mainfile.php?MAIN_PATH=
+/html/affich.php?base=
+/gallery/init.php?HTTP_POST_VARS=
+/ideabox/include.php?gorumDir=
+/stats/modules/My_eGallery/index.php?basepath=
+/stats/include/write.php?dir=
+/stats/tools/send_reminders.php?includedir=
+/index.cgiupgrade_album.php?GALLERY_BASEDIR=
+/pollvote/pollvote.php?pollname
+/includes/page_header.php?dir=
+/index2.php?mosConfig_absolute_path=
+/new/bbs//include/write.php?dir=
+/index.php?mosConfig_absolute_path=
+/_wk/wk_lang.php?wkPath=
+/index.php?template=
+/index.php?pag=
+/index.php?p=
+/index.php?s=
+/index.php?c=
+/index.php?m=
+/index.php?sayfa=
+/index.php?content=
+/index.php?cont=
+/journal.php?m=
+/links.php?c=
+/forums.php?m=
+/list.php?c=
+/user.php?xoops_redirect=
+/index.php?id=
+/r.php?url=
+/index.php?meio=
+/index.php?modpath=
+/index.php?sqld=
+/index.php?mainpage=
+/index.php?pageurl=
+/main.php?page=
+/default.php?page=
+/index.php?action=
+/index1.php?p=
+/index2.php?x=
+/index2.php?content=
+/index.php?conteudo=
+/index.php?meio.php=
+/index.php?configFile=
+/index.php?do=
+/page.php?template=
+/index.php?hc=
+/visitorupload.php?cmd=
+/application.php?base_path=
+/config.php?returnpath=
+/editsite.php?returnpath=
+/in.php?returnpath=
+/addsite.php?returnpath=
+/index.php?site_path=
+/mail/index.php?site_path=
+/fclick/show.php?path=
+/show.php?path=
+/index.php?inc_dir=
+/index.php?theme_path=
+/index.php?f=
+/index.php?act=
+/ipchat.php?root_path=
+/become_editor.php?theme_path=
+/add.php?theme_path=
+/bad_link.php?theme_path=
+/browse.php?theme_path=
+/detail.php?theme_path=
+/fav.php?theme_path=
+/get_rated.php?theme_path=
+/login.php?theme_path=
+/mailing_list.php?theme_path=
+/new.php?theme_path=
+/modify.php?theme_path=
+/pick.php?theme_path=
+/power_search.php?theme_path=
+/rating.php?theme_path=
+/register.php?theme_path=
+/review.php?theme_path=
+/rss.php?theme_path=
+/search.php?theme_path=
+/send_pwd.php?theme_path=
+/sendmail.php?theme_path=
+/tell_friend.php?theme_path=
+/top_rated.php?theme_path=
+/user_detail.php?theme_path=
+/user_search.php?theme_path=
+/invoice.php?base_path=
+/armygame.php?libpath=
+/lire.php?rub=
+/pathofhostadmin/?page=
+/apa_phpinclude.inc.php?apa_module_basedir=
+/index.php?req_path=
+/print.php?val1=
+/cmd.php?function=
+/iframe.php?file=
+/os/pointer.php?url=
+/phpcalendar/includes/setup.php?phpc_root_path=
+/phpcalendar/includes/calendar.php?phpc_root_path=
+/inc/mail.php?PROJECT_ROOT=
+/email/session.php?PROJECT_ROOT=
+/editmeetings/session.php?PROJECT_ROOT=
+/misc/function.php3?path=
+/speedberg/include/entrancePage.tpl.php?SPEEDBERG_PATH=
+/modules/MambWeather/Savant2/Savant2_Plugin_options.php?mosC onfig_absolute_path=
+/classes/class_admin.php?PathToComment=
+/textpattern/publish.php?txpcfg[txpath]=
+/login/secure.php?cfg[homepath]=
+/admin/include/headerscripts.php?adminfolderpath=
+/themes/fin.php?themes=
+/volume.php?config[public_dir]=
+/manager/media/browser/mcpuk/connectors/php/Commands/Thumbna il.php?base_path=
+/lib/includes/loader.cmd.php?store_config[code]=
+/includes/xhtml.php?d_root=
+/forum/admin/modules_data.php?phpbb_root_path=
+/admin/modules_data.php?phpbb_root_path=
+/modules/mx_smartor/album.php?smartor_mode=album_cat&mod ule_root_path=
+/function_balise_url.php?racine=
+/connection.php?racine=
+/function_log.php?racine=
+/library/translation.inc.php?GLOBALS[srcdir]=
+/login.php?srcdir=
+/interface/new/new_patient_save.php?srcdir=
+/interface/billing/billing_process.php?srcdir=
+/inc/irayofuncs.php?irayodirhack=
+/inc/session.php?sessionerror=0&lang=
+/language.inc.php?langs_dir=
+/encapscms_PATH/core/core.php?root=
+/admin/index.php?p=
+/admin/mods/simplechat_1.0.0/chat_panel.php?talk=1&msg=
+/pageactionauthor.php?DIR=
+/_basicfunctions.php?DIR=
+/pntUnit/Inspect.php?Include=
+/core/editor.php?editor_insert_bottom=
+/dsp/dsp_form_editor.php?apx_root_path=
+/dsp/dsp_form_booking_cusname.php?apx_root_path=
+/dsp/dsp_form_country.php?apx_root_path=
+/dsp/dsp_form_date.php?apx_root_path=
+/includes/mx_common.php?module_root_path=
+/dsp/dsp_bookings.php?apx_root_path=
+/dsp/dsp_form_booking_ctl.php?apx_root_path=
+/act/act_check_access.php?apx_root_path=
+/phpBB/admin/admin_s tyles.php?mode=
+/modules/Forums/admin/admin_s tyles.php?phpbb_root_path=
+/components/com_securityimages/configinsert.php?mosConfig_ab solute_path=
+/components/com_galleria/galleria.html.php?mosConfig_absolut e_path=
+/administrator/components/com_multibanners/extadminmenus.cla ss.php?mosConfig_absolute_path=
+/components/com_artl inks/artl inks.dispnew.php?mosConfig_abso lute_path=
+/components/com_securityimages/lang.php?mosConfig_absolute_p ath=
+/components/com_videodb/core/videodb.class._xml.php?mosConfig _absolute_path=
+/components/com_mambatstaff/mambatstaff.php?mosConfig_absolu te_path=
+/index.php?module=
+/admin/admin.php?vwar_root=
+/components/com_extcalendar/admin_events.php?CONFIG_EXT[LANGUAGES_DIR]=
+/components/com_loudmounth/includes/abbc/abbc.class.php?mosC onfig_absolute_path=
+/components/com_htmlarea3_xtd-c/popups/ImageManager/config.i nc.php?mosConfig_absolute_path=
+/components/com_pollxt/conf.pollxt.php?mosConfig_absolute_pa th=
+core/core.php?root=
+/components/com_extcalendar/extcalendar.php?mosConfig_absolu te_path=
+/components/com_pccookbook/pccookbook.php?mosConfig_absolute _path=
+/components/com_sitemap/sitemap._xml.php?mosConfig_absolute_p ath=
+/components/com_pcchess/include.pcchess.php?mosConfig_absolu te_path=
+/webmail/lib/emailreader_execute_on_each_page.inc.php?emailr eader_ini=
+/skin/zero_vote/error.php?dir=
+/modules/PNphpBB2/includes/functions_admin.php?phpbb_root_pa th=
+/backend/addons/l inks/index.php?PATH=
+/public_includes/pub_popup/popup_finduser.php?vsDragonRootPa th=
+/claroline/auth/extauth/drivers/ldap.inc.php?clarolineReposi torySys=
+/forum/language/lang_english/lang_activity.php?phpbb_root_pa th=
+/modules/vWar_Account/includes/functions_common.php?vwar_roo t2=
+wiki/pmwiki-2.1.beta20/pmwiki.php?GLOBALS[FarmD]=
+/infusions/last_seen_users_panel/last_seen_users_panel.php?s ettings[locale]=
+/l inks.php?c=
+/bad_l ink.php?theme_path=
+/globals.php3?Langcookie=.example.com
+/achievo/atk/javascript/class.atkdateattribute.js.php?config _atkroot=
+/cmd/product_info.php/products_id/1622/shop_content.php?coID =
+/adlayer.php?layers tyle=
+/admin/includes/classes/spaw/spaw_control.class.php?spaw_roo t=
+/allmyl inks/include/info.inc.php?_AMVconfig[cfg_serverpath]=
+/allmyl inks/include/footer.inc.php?_AMLconfig[cfg_serverpath]=
+/web_statistics//modules/My_eGallery/public/displayCategory. php?basepath=
+/web_statistics/modules/coppermine/themes/default/theme.php? THEME_DIR=
+/admin.php?lang=
+/upload/force_download.php?file=
+/opensurveypilot/administration/user/lib/group.inc.php?cfgPathToProjectAdmin=
+/templates/datumVonDatumBis.inc.php?root=
+/templates/footer.inc.php?root=
+/templates/header.inc.php?root=
+/templates/stylesheets.php?root=
+/belegungsplan/wochenuebersicht.inc.php?root=
+/belegungsplan/monatsuebersicht.inc.php?root=
+/belegungsplan/jahresuebersicht.inc.php?root=
+/belegungsplan/tagesuebersicht.inc.php?root=
+/docs/front-end-demo/cart2.php?workdir=
+/mosConfig_absolute_path=
+/target/path/function.php?gbpfad=
+/index.php?func=
+/modules/postguestbook/styles/internal/header.php?tpl_pgb_moddir=
+/[PaTh]/actions/del.php?include_path=
+/include/include_top.php?g_include=
+/ws/login.php?includedir=
+/ws/get_reminders.php?includedir=
+/ws/get_events.php?includedir=
+/administrator/components/com_a6mambohelpdesk/admin.a6mambohelpdesk.php?mosConfig_live_site=
+/picture.php?file=
+/[Path]/gb.php?lang=
+/hgb/gb.php?cmd=
+/includes/Archive/Tar.php?mosConfig_absolute_path=
+/administrator/popups/pollwindow.php?mosConfig_absolute_path=
+/supasite/site_news.php?supa=
+/supasite/site_comment.php?supa=
+/supasite/backend_site.php?supa=
+/supasite/admin_utilities.php?supa=
+/supasite/admin_users.php?supa=
+/oneadmin/config-bak.php?include_once=
+/oneadmin/config.php?include_once=
+/include.php?myng_root=
+/inc/libs/Smarty_Compiler.class.php?plugin_file=
+/settings.php?P=
+/wordpress/wp-settings.php?require_once=
+/wordpress/wp-includes/template-loader.php?include=
+/wordpress/wp-includes/theme.php?require_once=
+/_editor.php?settings=
+/info.php?file=
+/DynaTracker_v151/action.php?base_path=
+/DynaTracker_v151/includes_handler.php?base_path=
+/bingoserver.php3?response_dir=
+/addvip.php?msetstr
+/searchbot.php?path=
+/include/payment/payflow_pro.php?abs_path=
+/cart.php?lang_list=
+/b2archives.php?b2inc=
+/b2categories.php?b2inc=
+/b2mail.php?b2inc=
+/config.php?full_path_to_db=
+/accept.php?DOCUMENT_ROOT=
+/blogs/a_noskin.php?require=
+/blogs/a_stub.php?_blog_main.inc.php=
+/bogs/admin.php?inc_path=
+/blogs/admin.php?errors/_access_denied.inc.php=
+/blogs/admin.php?inc_path=
+/nucleus/plugins/skinfiles/index.php?DIR_LIBS=
+/admin/includes/spaw/dialogs/insert_link.php?spaw_root=
+/upload/admin.php?include=
+/lib/authuser.php?root=
+/lib/misc.php?root=
+/lib/connect.php?root=
+/lib/db/mysql.class.php?root=
+/lib/db/postgres.class.php?root=
+/components/com_mtree/Savant2/Savant2_Plugin_textarea.php?mosConfig_absolute_pat h=
+/administrator/components/com_phpshop/toolbar.phpshop.html.php?mosConfig_absolute_path=
+/administrator/components/com_kochsuite/config.kochsuite.php?mosConfig_absolute_path=
+/administrator/components/com_linkdirectory/toolbar.linkdirectory.html.php?mosConfig_absolute_ path=
+/inc_ACVS/SOAP/Transport.php
+/html/php/detail.php?relPath=
+/html/php/detail.php?folder=
+/includes/init.inc.php?base_path=
+/phporacleview/inc/include_all.inc.php?page_dir=
+/include/loading.php?path_include=
+/libraries/pcl/pcltar.php?g_pcltar_lib_dir=
+/common.php?dir=
+/themes/default/preview_post_completo.php?dir=
+/eba/admin/public/webpages.php?filename=
+/themes/ubb/login.php?theme=
+/gpb/include/db.mysql.inc.php?root_path=
+/gpb/include/gpb.inc.php?root_path=
+/ includes/get_header.php?vwar_root=
+/supasite/common_functions.php?supa=
+/supasite/admin_auth_cookies.php?supa=
+/supasite/admin_mods.php?supa=
+/supasite/admin_news.php?supa=
+/supasite/admin_settings.php?supa=
+/supasite/admin_topics.php?supa=
+/modules/mx_smartor/admin/admin_album_otf.php?phpbb_root_path=

@@ -1,0 +1,12 @@
+* site:appdomain.cloud
+* site:appdomain.cloud +s3
+* site:*cloud-object-storage.appdomain.cloud
+* site:codeengine.appdomain.cloud
+* site:containers.appdomain.cloud
+* site:clb.appdomain.cloud
+* site:apiconnect.appdomain.cloud
+* site:cdn.appdomain.cloud
+* site:lb.appdomain.cloud
+* site:vmware.cloud.ibm.com - VMware Cloud Director Availability
+* site:appid.cloud.ibm.com - IBM Cloud App ID Management Configuration APIs and AppID Authentication Portals
+* site:site:ibmmarketingcloud.com
