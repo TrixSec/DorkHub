@@ -1,0 +1,15 @@
+# Category: CI/CD Pipelines
+# Risk: Critical
+# Search Engine: Google / GitHub
+
+# Exposed Jenkins dashboards
+intitle:"Dashboard [Jenkins]"
+inurl:"/jenkins/login" intitle:"Jenkins"
+
+# Exposed GitLab CI/CD runners & configs
+inurl:".gitlab-ci.yml" ext:yml
+inurl:"/pipelines" intext:"GitLab CI"
+
+# Exposed GitHub Actions logs
+inurl:".github/workflows" ext:yml
+inurl:"/runs/" intext:"Set up job" intext:"Complete job"

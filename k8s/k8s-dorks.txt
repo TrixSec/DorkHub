@@ -1,0 +1,12 @@
+# Category: Kubernetes & Docker
+# Risk: High
+# Search Engine: Google / Shodan
+
+# Exposed Kubernetes dashboards
+intitle:"Kubernetes Dashboard" inurl:"/api/v1/namespaces/kube-system/services/https:kubernetes-dashboard:/proxy/"
+
+# Exposed kubelet APIs
+inurl:"10250/pods" ext:json
+
+# Exposed Docker Registries
+inurl:"/v2/_catalog" intitle:"Docker Registry"

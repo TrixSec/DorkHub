@@ -1,0 +1,12 @@
+# Category: AI & ML Models
+# Risk: Medium to High
+# Search Engine: Google / GitHub
+
+# Exposed Jupyter Notebooks
+intitle:"Jupyter Notebook" inurl:"/tree"
+
+# ML Model endpoints
+inurl:"/predict" intext:"tensorflow" | intext:"pytorch"
+
+# Exposed training data or datasets
+inurl:".csv" intext:"dataset" intext:"training"

@@ -11,7 +11,7 @@ DorkHub is the security researcher's companion. It’s a comprehensive repositor
 ![DorkHub Logo](https://github.com/TrixSec/DorkHub/blob/main/logo/dorkhub-logo.png?raw=true)  
 ![Repo View Counter](https://komarev.com/ghpvc/?username=DorkHub)
 
-![Categories](https://img.shields.io/badge/Categories-20%2B-blue)
+![Categories](https://img.shields.io/badge/Categories-25%2B-blue)
 ![Quality](https://img.shields.io/badge/Quality_Over_Quantity-Curated-brightgreen)
 ![GitHub Stars](https://img.shields.io/github/stars/TrixSec/DorkHub?style=social)
 
@@ -22,6 +22,12 @@ DorkHub is the security researcher's companion. It’s a comprehensive repositor
 ## Categories
 
 DorkHub is organized into the following categories:
+
+### AI & ML
+Dorks for discovering exposed AI and Machine Learning infrastructure (Jupyter notebooks, datasets).
+
+### API
+Dorks for finding exposed API endpoints (REST, GraphQL) and leaked API keys.
 
 ### Backlink
 Dorks for uncovering backlink information and SEO insights.
@@ -34,6 +40,9 @@ Dorks that assist in identifying sites related to carding and fraud.
 
 ### CCTV
 Dorks for finding exposed and misconfigured CCTV cameras.
+
+### CI/CD
+Dorks for uncovering exposed CI/CD pipelines (Jenkins, GitLab CI, GitHub Actions).
 
 ### Censys
 Queries tailored for Censys search engine to find exposed devices and services.
@@ -50,11 +59,17 @@ Dorks focused on finding exposed cryptocurrency wallets, transactions, and relat
 ### Exploit DB
 All Dorks From Exploit Database (ghdb) Are Categorised Here 
 
+### Firebase
+Dorks for finding exposed Firebase configurations and databases.
+
 ### Gaming
 Dorks related to gaming platforms, servers, and forums.
 
 ### GitHub
 Dorks for finding sensitive information exposed on GitHub repositories.
+
+### Kubernetes & Docker
+Dorks for uncovering exposed Kubernetes dashboards, APIs, and Docker registries.
 
 ### LFI
 Local File Inclusion (LFI) specific dorks to uncover vulnerable endpoints.

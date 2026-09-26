@@ -1,0 +1,17 @@
+# Category: API Endpoints & Keys
+# Risk: High
+# Search Engine: Google / GitHub
+
+# Find exposed Swagger/OpenAPI UI
+inurl:"/swagger-ui.html" intitle:"Swagger UI"
+inurl:"/api/docs" intitle:"Swagger UI"
+inurl:"/openapi.json" ext:json
+
+# Find exposed GraphQL endpoints
+inurl:"/graphql" intitle:"GraphQL Playground"
+intext:"GraphiQL" inurl:"/graphiql"
+
+# Find exposed API Keys in URLs or files
+inurl:"api_key=" ext:txt | ext:log | ext:env
+intext:"BEGIN OPENSSH PRIVATE KEY" ext:txt | ext:pem | ext:key
+intext:"AKIA" ext:txt | ext:env | ext:log

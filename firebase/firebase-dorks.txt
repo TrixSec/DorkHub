@@ -1,0 +1,10 @@
+# Category: Firebase
+# Risk: High
+# Search Engine: Google / GitHub
+
+# Exposed Firebase Databases
+inurl:".firebaseio.com/.json"
+
+# Firebase Configs in code
+intext:"firebase.initializeApp(" ext:js | ext:ts
+inurl:"firebase.json" ext:json
