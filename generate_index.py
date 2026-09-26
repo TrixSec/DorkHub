@@ -6,7 +6,7 @@ Generate index.json manifest for DorkHub.
 import os
 import glob
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 
 REPO_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -43,12 +43,19 @@ def generate_index():
             "dork_count": dork_count
         })
         
+    # Sort files within each category for deterministic output
+    for cat in categories.values():
+        cat["files"].sort(key=lambda f: f["path"])
+
+    # Sort categories alphabetically for deterministic output
+    sorted_categories = sorted(categories.values(), key=lambda c: c["name"])
+
     manifest = {
         "version": "2.0",
-        "last_updated": datetime.utcnow().strftime("%Y-%m-%d %H:%M:%SZ"),
+        "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ"),
         "total_dorks": total_dorks,
         "total_categories": len(categories),
-        "categories": list(categories.values())
+        "categories": sorted_categories
     }
     
     out_path = os.path.join(REPO_DIR, "index.json")

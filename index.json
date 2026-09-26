@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-26 11:45:47Z",
+  "last_updated": "2026-09-26 12:42:54Z",
   "total_dorks": 919663,
   "total_categories": 27,
   "categories": [
@@ -215,10 +215,6 @@
           "dork_count": 2109
         },
         {
-          "path": "exploit-db/ghdb/dltme.txt",
-          "dork_count": 1
-        },
-        {
           "path": "exploit-db/ghdb/Error-Messages.txt",
           "dork_count": 122
         },
@@ -273,6 +269,10 @@
         {
           "path": "exploit-db/ghdb/Web-Server-Detection.txt",
           "dork_count": 205
+        },
+        {
+          "path": "exploit-db/ghdb/dltme.txt",
+          "dork_count": 1
         }
       ]
     },

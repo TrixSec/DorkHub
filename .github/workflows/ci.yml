@@ -26,4 +26,4 @@ jobs:
       - name: Generate Manifest & Verify
         run: |
           python generate_index.py
-          git diff --exit-code index.json || (echo "index.json is outdated. Run python generate_index.py before committing." && exit 1)
+          git diff -I '"last_updated"' --exit-code index.json || (echo "index.json is outdated. Run python generate_index.py before committing." && exit 1)
